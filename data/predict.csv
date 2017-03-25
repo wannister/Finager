@@ -1,0 +1,1567 @@
+2018.0,Canada,1.1.1,62783881,1120880.9865546152,Household final consumption expenditure 
+2018.0,Canada,1.1.2,62783882,100760.10786860157,Food and non-alcoholic beverages 
+2018.0,Canada,1.1.3,62783883,89576.17937356792,Food 
+2018.0,Canada,1.1.4,62783884,11183.9284950344,Non-alcoholic beverages 
+2018.0,Canada,1.1.5,62783885,37787.327272727154,Alcoholic beverages and tobacco 
+2018.0,Canada,1.1.6,62783886,21397.130939648603,Alcoholic beverages 
+2018.0,Canada,1.1.7,62783887,16390.196333078784,Tobacco 
+2018.0,Canada,1.1.8,62783888,45808.1216195568,Clothing and footwear 
+2018.0,Canada,1.1.9,62783889,4158.0710466004675,Clothing materials other articles of clothing and clothing accessories 
+2018.0,Canada,1.1.10,62783890,33264.272727272706,Garments 
+2018.0,Canada,1.1.11,62783891,1674.319174942706,Cleaning of clothing 
+2018.0,Canada,1.1.12,62783892,6711.458670741005,Footwear 
+2018.0,Canada,1.1.13,62783893,265416.1555385813,Housing water electricity gas and other fuels 
+2018.0,Canada,1.1.14,62783894,56190.52421695972,Paid rental fees for housing 
+2018.0,Canada,1.1.15,62783895,167139.11673032772,Imputed rental fees for housing 
+2018.0,Canada,1.1.16,62783896,3034.9144385026593,Materials for the maintenance and repair of the dwelling 
+2018.0,Canada,1.1.17,62783897,438.6716577540101,Services for the maintenance and repair of the dwelling 
+2018.0,Canada,1.1.18,62783898,6382.810084033641,Water supply and sanitation services 
+2018.0,Canada,1.1.19,62783899,20367.06539343018,Electricity 
+2018.0,Canada,1.1.20,62783900,8165.799083269667,Gas 
+2018.0,Canada,1.1.21,62783901,3697.253934300985,Other fuels 
+2018.0,Canada,1.1.22,62783902,62085.39205500344,Furnishings household equipment and other goods and services related to the dwelling and property 
+2018.0,Canada,1.1.23,62783903,17231.030404889258,Furniture and furnishings 
+2018.0,Canada,1.1.24,62783904,744.0514896867826,Carpets and other floor coverings 
+2018.0,Canada,1.1.25,62783905,3538.7071046600176,Household textiles 
+2018.0,Canada,1.1.26,62783906,6182.897631779953,Major household appliances 
+2018.0,Canada,1.1.27,62783907,1922.1061879297195,Small electric household appliances 
+2018.0,Canada,1.1.28,62783908,3152.505729564553,Major tools and equipment 
+2018.0,Canada,1.1.29,62783909,2646.4220015278843,Small tools and miscellaneous accessories 
+2018.0,Canada,1.1.30,62783910,6960.3957219251315,Other semi-durable household goods 
+2018.0,Canada,1.1.31,62783911,7908.916883116879,Other non-durable household goods 
+2018.0,Canada,1.1.32,62783912,2980.376776165009,Repair of personal and household goods except vehicles 
+2018.0,Canada,1.1.33,62783913,3792.165775401081,Renting and leasing of personal and household goods except passenger vehicles 
+2018.0,Canada,1.1.34,62783914,5025.816348357475,Other services related to the dwelling and property 
+2018.0,Canada,1.1.35,62783915,47210.691367456224,Health 
+2018.0,Canada,1.1.36,62783916,20352.834530175896,Pharmaceutical products and other medical products 
+2018.0,Canada,1.1.37,62783917,3911.2644766997837,Therapeutic appliances and equipment 
+2018.0,Canada,1.1.38,62783918,20007.303896103986,Out-patient services 
+2018.0,Canada,1.1.39,62783919,2939.2884644767037,Hospital services 
+2018.0,Canada,1.1.40,62783920,167086.20259740204,Transport 
+2018.0,Canada,1.1.41,62783921,21931.242780748755,New passenger cars 
+2018.0,Canada,1.1.42,62783922,30733.022918258328,New trucks vans and sport utility vehicles 
+2018.0,Canada,1.1.43,62783923,14466.003972498118,Used motor vehicles 
+2018.0,Canada,1.1.44,62783924,3060.4305576776387,Other vehicles 
+2018.0,Canada,1.1.45,62783925,15409.214362108498,Spare parts and accessories for vehicles 
+2018.0,Canada,1.1.46,62783926,43796.15095492778,Fuels and lubricants 
+2018.0,Canada,1.1.47,62783927,9855.469977081753,Maintenance and repair of vehicles 
+2018.0,Canada,1.1.48,62783928,2706.6543926661834,Parking 
+2018.0,Canada,1.1.49,62783929,1280.767914438511,Passenger vehicle renting 
+2018.0,Canada,1.1.50,62783930,2104.8021390374342,Other services related to the operation of transport equipment 
+2018.0,Canada,1.1.51,62783931,5457.9752482811455,Urban transit and interurban bus 
+2018.0,Canada,1.1.52,62783932,1189.3613445378141,Taxi and limousine 
+2018.0,Canada,1.1.53,62783933,11756.556608097744,Air transport 
+2018.0,Canada,1.1.54,62783934,716.6012223071048,Railway and water transport 
+2018.0,Canada,1.1.55,62783935,2621.948204736429,Other transport services 
+2018.0,Canada,1.1.56,62783936,28868.304660046007,Communications 
+2018.0,Canada,1.1.57,62783937,1584.3611917494272,Postal services 
+2018.0,Canada,1.1.58,62783938,1016.0128342245953,Telecommunication equipment 
+2018.0,Canada,1.1.59,62783939,26267.930634071818,Telecommunication services 
+2018.0,Canada,1.1.60,62783940,102117.4971734155,Recreation and culture 
+2018.0,Canada,1.1.61,62783941,8877.005653170345,Audio-visual and photographic equipment 
+2018.0,Canada,1.1.62,62783942,4739.109702062648,Information processing equipment 
+2018.0,Canada,1.1.63,62783943,3520.5616501145705,Recording media 
+2018.0,Canada,1.1.64,62783944,7037.247211611888,Major durables for outdoor recreation 
+2018.0,Canada,1.1.65,62783945,1345.9848739495865,Musical instruments and major durables for indoor recreation 
+2018.0,Canada,1.1.66,62783946,6202.516271963308,Games toys and hobbies 
+2018.0,Canada,1.1.67,62783947,5677.716119174962,Equipment for sport camping and open-air recreation 
+2018.0,Canada,1.1.68,62783948,3716.265851795266,Garden products plants and flowers 
+2018.0,Canada,1.1.69,62783949,4057.044003055751,Pets and pet food 
+2018.0,Canada,1.1.70,62783950,2824.3845683728287,Veterinary and other services for pets 
+2018.0,Canada,1.1.71,62783951,10848.952482811292,Recreational and sporting services 
+2018.0,Canada,1.1.72,62783952,10102.757524828194,Cable satellite and other program distribution services 
+2018.0,Canada,1.1.73,62783953,1337.3019098548466,Cinemas 
+2018.0,Canada,1.1.74,62783954,1103.7983193277323,Photographic services 
+2018.0,Canada,1.1.75,62783955,3049.724980901461,Other cultural services 
+2018.0,Canada,1.1.76,62783956,19493.72834224603,Games of chance 
+2018.0,Canada,1.1.77,62783957,3374.5142857143073,Books 
+2018.0,Canada,1.1.78,62783958,2450.3818181818133,Newspapers and periodicals 
+2018.0,Canada,1.1.79,62783959,2358.501604278077,Miscellaneous printed matter and stationery and drawing materials 
+2018.0,Canada,1.1.80,62783960,16800.801986249047,Education 
+2018.0,Canada,1.1.81,62783961,8184.872574484325,University education 
+2018.0,Canada,1.1.82,62783962,8615.929411764722,Other education 
+2018.0,Canada,1.1.83,62783963,77100.88739495818,Food beverage and accommodation services 
+2018.0,Canada,1.1.84,62783964,54616.38854087051,Food and non-alcoholic beverage services 
+2018.0,Canada,1.1.85,62783965,11221.16867838049,Alcoholic beverage services 
+2018.0,Canada,1.1.86,62783966,11263.330175706651,Accommodation services 
+2018.0,Canada,1.1.87,62783967,101351.86264323909,Insurance and financial services 
+2018.0,Canada,1.1.88,62783968,11129.647211611911,Life insurance 
+2018.0,Canada,1.1.89,62783969,2342.7075630252075,Property insurance 
+2018.0,Canada,1.1.90,62783970,6996.629029793723,Health insurance 
+2018.0,Canada,1.1.91,62783971,7658.7648586707655,Insurance related to transport 
+2018.0,Canada,1.1.92,62783972,15606.24018334609,Implicit loan charges 
+2018.0,Canada,1.1.93,62783973,12571.132314744056,Implicit deposit charges 
+2018.0,Canada,1.1.94,62783974,4412.175401069515,Stock and bond commissions 
+2018.0,Canada,1.1.95,62783975,16322.047211611876,Other actual financial charges 
+2018.0,Canada,1.1.96,62783976,4959.49121466768,Trusteed pension funds 
+2018.0,Canada,1.1.97,62783977,19353.02765469835,Mutual funds 
+2018.0,Canada,1.1.98,62783978,58171.225210084114,Miscellaneous goods and services 
+2018.0,Canada,1.1.99,62783979,9482.50542398775,Personal grooming services 
+2018.0,Canada,1.1.100,62783980,674.5535523300205,Electrical appliances for personal care 
+2018.0,Canada,1.1.101,62783981,15551.33185637882,Other appliances articles and products for personal care 
+2018.0,Canada,1.1.102,62783982,4431.6762414056575,Jewellery clocks and watches 
+2018.0,Canada,1.1.103,62783983,3241.470893812075,Other personal effects 
+2018.0,Canada,1.1.104,62783984,5103.101451489696,Child care services outside the home 
+2018.0,Canada,1.1.105,62783985,1220.396027501909,Child care services in the home 
+2018.0,Canada,1.1.106,62783986,9580.09152024443,Other social services and funeral services 
+2018.0,Canada,1.1.107,62783987,8886.09824293357,Legal and other services 
+2018.0,Canada,1.1.108,62783988,15008.810236821999,Net expenditure abroad 
+2018.0,Canada,1.1.109,62783989,41028.43116883142,Expenditure by Canadians abroad 
+2018.0,Canada,1.1.110,62783990,12106.545607333886,Expenditure by Canadians in other provinces or territories 
+2018.0,Canada,1.1.111,62783991,-26019.620932009304,Expenditure by non-residents in Canada 
+2018.0,Canada,1.1.112,62783992,-12106.545607333886,Expenditure by Canadians residing in other provinces or territories 
+2018.0,Newfoundland and Labrador,2.1.1,62784105,15845.02750190976,Household final consumption expenditure 
+2018.0,Newfoundland and Labrador,2.1.2,62784106,1538.2438044308583,Food and non-alcoholic beverages 
+2018.0,Newfoundland and Labrador,2.1.3,62784107,1332.082322383496,Food 
+2018.0,Newfoundland and Labrador,2.1.4,62784108,206.16896867838113,Non-alcoholic beverages 
+2018.0,Newfoundland and Labrador,2.1.5,62784109,769.6067379679116,Alcoholic beverages and tobacco 
+2018.0,Newfoundland and Labrador,2.1.6,62784110,408.0227349121469,Alcoholic beverages 
+2018.0,Newfoundland and Labrador,2.1.7,62784111,361.56825057295646,Tobacco 
+2018.0,Newfoundland and Labrador,2.1.8,62784112,637.0616806722683,Clothing and footwear 
+2018.0,Newfoundland and Labrador,2.1.9,62784113,53.435202444614106,Clothing materials other articles of clothing and clothing accessories 
+2018.0,Newfoundland and Labrador,2.1.10,62784114,495.58139037433284,Garments 
+2018.0,Newfoundland and Labrador,2.1.11,62784115,6.4356302521008395,Cleaning of clothing 
+2018.0,Newfoundland and Labrador,2.1.12,62784116,81.64647822765482,Footwear 
+2018.0,Newfoundland and Labrador,2.1.13,62784117,3547.1396485867153,Housing water electricity gas and other fuels 
+2018.0,Newfoundland and Labrador,2.1.14,62784118,456.3202750190976,Paid rental fees for housing 
+2018.0,Newfoundland and Labrador,2.1.15,62784119,2282.7590985485003,Imputed rental fees for housing 
+2018.0,Newfoundland and Labrador,2.1.16,62784120,40.10074866310151,Materials for the maintenance and repair of the dwelling 
+2018.0,Newfoundland and Labrador,2.1.17,62784121,7.124323911382703,Services for the maintenance and repair of the dwelling 
+2018.0,Newfoundland and Labrador,2.1.18,62784122,54.14499618029049,Water supply and sanitation services 
+2018.0,Newfoundland and Labrador,2.1.19,62784123,517.7729411764703,Electricity 
+2018.0,Newfoundland and Labrador,2.1.20,62784124,4.311138273491224,Gas 
+2018.0,Newfoundland and Labrador,2.1.21,62784125,184.60449197860999,Other fuels 
+2018.0,Newfoundland and Labrador,2.1.22,62784126,895.6887853323133,Furnishings household equipment and other goods and services related to the dwelling and property 
+2018.0,Newfoundland and Labrador,2.1.23,62784127,266.9443239113825,Furniture and furnishings 
+2018.0,Newfoundland and Labrador,2.1.24,62784128,5.575599694423232,Carpets and other floor coverings 
+2018.0,Newfoundland and Labrador,2.1.25,62784129,48.63972498090129,Household textiles 
+2018.0,Newfoundland and Labrador,2.1.26,62784130,90.91868601986243,Major household appliances 
+2018.0,Newfoundland and Labrador,2.1.27,62784131,29.232941176470604,Small electric household appliances 
+2018.0,Newfoundland and Labrador,2.1.28,62784132,49.93845683728023,Major tools and equipment 
+2018.0,Newfoundland and Labrador,2.1.29,62784133,44.12598930481295,Small tools and miscellaneous accessories 
+2018.0,Newfoundland and Labrador,2.1.30,62784134,100.95970970206236,Other semi-durable household goods 
+2018.0,Newfoundland and Labrador,2.1.31,62784135,130.77966386554635,Other non-durable household goods 
+2018.0,Newfoundland and Labrador,2.1.32,62784136,36.0843391902215,Repair of personal and household goods except vehicles 
+2018.0,Newfoundland and Labrador,2.1.33,62784137,43.5669213139804,Renting and leasing of personal and household goods except passenger vehicles 
+2018.0,Newfoundland and Labrador,2.1.34,62784138,48.95891520244459,Other services related to the dwelling and property 
+2018.0,Newfoundland and Labrador,2.1.35,62784139,604.6247211611917,Health 
+2018.0,Newfoundland and Labrador,2.1.36,62784140,328.2667990832706,Pharmaceutical products and other medical products 
+2018.0,Newfoundland and Labrador,2.1.37,62784141,48.88296409472878,Therapeutic appliances and equipment 
+2018.0,Newfoundland and Labrador,2.1.38,62784142,176.88029029793688,Out-patient services 
+2018.0,Newfoundland and Labrador,2.1.39,62784143,50.62013750954884,Hospital services 
+2018.0,Newfoundland and Labrador,2.1.40,62784144,2723.1332773109316,Transport 
+2018.0,Newfoundland and Labrador,2.1.41,62784145,358.31014514896924,New passenger cars 
+2018.0,Newfoundland and Labrador,2.1.42,62784146,655.7327119938927,New trucks vans and sport utility vehicles 
+2018.0,Newfoundland and Labrador,2.1.43,62784147,237.7968678380439,Used motor vehicles 
+2018.0,Newfoundland and Labrador,2.1.44,62784148,16.246936592818997,Other vehicles 
+2018.0,Newfoundland and Labrador,2.1.45,62784149,228.6355691367462,Spare parts and accessories for vehicles 
+2018.0,Newfoundland and Labrador,2.1.46,62784150,752.8352024446067,Fuels and lubricants 
+2018.0,Newfoundland and Labrador,2.1.47,62784151,128.69381207028346,Maintenance and repair of vehicles 
+2018.0,Newfoundland and Labrador,2.1.48,62784152,7.815049656226108,Parking 
+2018.0,Newfoundland and Labrador,2.1.49,62784153,14.052727272727282,Passenger vehicle renting 
+2018.0,Newfoundland and Labrador,2.1.50,62784154,14.8815889992361,Other services related to the operation of transport equipment 
+2018.0,Newfoundland and Labrador,2.1.51,62784155,16.620152788388168,Urban transit and interurban bus 
+2018.0,Newfoundland and Labrador,2.1.52,62784156,18.78135981665389,Taxi and limousine 
+2018.0,Newfoundland and Labrador,2.1.53,62784157,222.41294117647158,Air transport 
+2018.0,Newfoundland and Labrador,2.1.54,62784158,18.226233766233804,Railway and water transport 
+2018.0,Newfoundland and Labrador,2.1.55,62784159,32.12899923605801,Other transport services 
+2018.0,Newfoundland and Labrador,2.1.56,62784160,457.0038044308603,Communications 
+2018.0,Newfoundland and Labrador,2.1.57,62784161,26.691398013750813,Postal services 
+2018.0,Newfoundland and Labrador,2.1.58,62784162,13.21559969442319,Telecommunication equipment 
+2018.0,Newfoundland and Labrador,2.1.59,62784163,417.0968067226895,Telecommunication services 
+2018.0,Newfoundland and Labrador,2.1.60,62784164,1378.7749427043454,Recreation and culture 
+2018.0,Newfoundland and Labrador,2.1.61,62784165,104.4979679144385,Audio-visual and photographic equipment 
+2018.0,Newfoundland and Labrador,2.1.62,62784166,55.12161955691363,Information processing equipment 
+2018.0,Newfoundland and Labrador,2.1.63,62784167,41.536638655462184,Recording media 
+2018.0,Newfoundland and Labrador,2.1.64,62784168,122.99931245225343,Major durables for outdoor recreation 
+2018.0,Newfoundland and Labrador,2.1.65,62784169,16.302796027501927,Musical instruments and major durables for indoor recreation 
+2018.0,Newfoundland and Labrador,2.1.66,62784170,105.0020015278842,Games toys and hobbies 
+2018.0,Newfoundland and Labrador,2.1.67,62784171,71.24737967914416,Equipment for sport camping and open-air recreation 
+2018.0,Newfoundland and Labrador,2.1.68,62784172,37.303559969442404,Garden products plants and flowers 
+2018.0,Newfoundland and Labrador,2.1.69,62784173,55.76426279602765,Pets and pet food 
+2018.0,Newfoundland and Labrador,2.1.70,62784174,28.756913674560792,Veterinary and other services for pets 
+2018.0,Newfoundland and Labrador,2.1.71,62784175,98.88348357524865,Recreational and sporting services 
+2018.0,Newfoundland and Labrador,2.1.72,62784176,176.25347593582956,Cable satellite and other program distribution services 
+2018.0,Newfoundland and Labrador,2.1.73,62784177,11.43760122230708,Cinemas 
+2018.0,Newfoundland and Labrador,2.1.74,62784178,13.832742551566099,Photographic services 
+2018.0,Newfoundland and Labrador,2.1.75,62784179,30.448265851795213,Other cultural services 
+2018.0,Newfoundland and Labrador,2.1.76,62784180,310.5128495034369,Games of chance 
+2018.0,Newfoundland and Labrador,2.1.77,62784181,35.30739495798298,Books 
+2018.0,Newfoundland and Labrador,2.1.78,62784182,24.145378151260502,Newspapers and periodicals 
+2018.0,Newfoundland and Labrador,2.1.79,62784183,39.47856378915185,Miscellaneous printed matter and stationery and drawing materials 
+2018.0,Newfoundland and Labrador,2.1.80,62784184,146.32458365164257,Education 
+2018.0,Newfoundland and Labrador,2.1.81,62784185,74.6073185637897,University education 
+2018.0,Newfoundland and Labrador,2.1.82,62784186,71.71770817417882,Other education 
+2018.0,Newfoundland and Labrador,2.1.83,62784187,1032.3614514896835,Food beverage and accommodation services 
+2018.0,Newfoundland and Labrador,2.1.84,62784188,714.1001833460614,Food and non-alcoholic beverage services 
+2018.0,Newfoundland and Labrador,2.1.85,62784189,168.090145148969,Alcoholic beverage services 
+2018.0,Newfoundland and Labrador,2.1.86,62784190,150.17063407181104,Accommodation services 
+2018.0,Newfoundland and Labrador,2.1.87,62784191,1149.2759663865581,Insurance and financial services 
+2018.0,Newfoundland and Labrador,2.1.88,62784192,136.3024904507256,Life insurance 
+2018.0,Newfoundland and Labrador,2.1.89,62784193,48.58328495034357,Property insurance 
+2018.0,Newfoundland and Labrador,2.1.90,62784194,118.99207028265846,Health insurance 
+2018.0,Newfoundland and Labrador,2.1.91,62784195,102.69466768525581,Insurance related to transport 
+2018.0,Newfoundland and Labrador,2.1.92,62784196,212.9119786096253,Implicit loan charges 
+2018.0,Newfoundland and Labrador,2.1.93,62784197,107.63016042780691,Implicit deposit charges 
+2018.0,Newfoundland and Labrador,2.1.94,62784198,48.18806722689078,Stock and bond commissions 
+2018.0,Newfoundland and Labrador,2.1.95,62784199,160.89225362872457,Other actual financial charges 
+2018.0,Newfoundland and Labrador,2.1.96,62784200,59.58788388082485,Trusteed pension funds 
+2018.0,Newfoundland and Labrador,2.1.97,62784201,153.52036669213157,Mutual funds 
+2018.0,Newfoundland and Labrador,2.1.98,62784202,871.0392513368934,Miscellaneous goods and services 
+2018.0,Newfoundland and Labrador,2.1.99,62784203,120.89106187929701,Personal grooming services 
+2018.0,Newfoundland and Labrador,2.1.100,62784204,12.32991596638658,Electrical appliances for personal care 
+2018.0,Newfoundland and Labrador,2.1.101,62784205,256.3193277310929,Other appliances articles and products for personal care 
+2018.0,Newfoundland and Labrador,2.1.102,62784206,60.82916730328452,Jewellery clocks and watches 
+2018.0,Newfoundland and Labrador,2.1.103,62784207,48.678411000763845,Other personal effects 
+2018.0,Newfoundland and Labrador,2.1.104,62784208,57.104797555386085,Child care services outside the home 
+2018.0,Newfoundland and Labrador,2.1.105,62784209,16.3190068754775,Child care services in the home 
+2018.0,Newfoundland and Labrador,2.1.106,62784210,177.30673796791416,Other social services and funeral services 
+2018.0,Newfoundland and Labrador,2.1.107,62784211,121.17304812834209,Legal and other services 
+2018.0,Newfoundland and Labrador,2.1.108,62784212,94.76050420168121,Net expenditure abroad 
+2018.0,Newfoundland and Labrador,2.1.109,62784213,213.99673032849387,Expenditure by Canadians abroad 
+2018.0,Newfoundland and Labrador,2.1.110,62784214,314.08087089381115,Expenditure by Canadians in other provinces or territories 
+2018.0,Newfoundland and Labrador,2.1.111,62784215,-188.58343773873094,Expenditure by non-residents in Canada 
+2018.0,Newfoundland and Labrador,2.1.112,62784216,-244.77570664629457,Expenditure by Canadians residing in other provinces or territories 
+2018.0,Prince Edward Island,3.1.1,62784329,4283.613292589755,Household final consumption expenditure 
+2018.0,Prince Edward Island,3.1.2,62784330,412.9870588235317,Food and non-alcoholic beverages 
+2018.0,Prince Edward Island,3.1.3,62784331,363.7182429335353,Food 
+2018.0,Prince Edward Island,3.1.4,62784332,49.289671504965554,Non-alcoholic beverages 
+2018.0,Prince Edward Island,3.1.5,62784333,169.04939648586696,Alcoholic beverages and tobacco 
+2018.0,Prince Edward Island,3.1.6,62784334,82.96563789152015,Alcoholic beverages 
+2018.0,Prince Edward Island,3.1.7,62784335,86.06323911382742,Tobacco 
+2018.0,Prince Edward Island,3.1.8,62784336,163.69676088617234,Clothing and footwear 
+2018.0,Prince Edward Island,3.1.9,62784337,13.478609625668469,Clothing materials other articles of clothing and clothing accessories 
+2018.0,Prince Edward Island,3.1.10,62784338,126.01222307104672,Garments 
+2018.0,Prince Edward Island,3.1.11,62784339,5.206340718105423,Cleaning of clothing 
+2018.0,Prince Edward Island,3.1.12,62784340,18.980595874713572,Footwear 
+2018.0,Prince Edward Island,3.1.13,62784341,1049.993277310925,Housing water electricity gas and other fuels 
+2018.0,Prince Edward Island,3.1.14,62784342,161.38491978609636,Paid rental fees for housing 
+2018.0,Prince Edward Island,3.1.15,62784343,635.6182887700525,Imputed rental fees for housing 
+2018.0,Prince Edward Island,3.1.16,62784344,14.767242169595193,Materials for the maintenance and repair of the dwelling 
+2018.0,Prince Edward Island,3.1.17,62784345,1.608418640183345,Services for the maintenance and repair of the dwelling 
+2018.0,Prince Edward Island,3.1.18,62784346,30.276485867073916,Water supply and sanitation services 
+2018.0,Prince Edward Island,3.1.19,62784347,56.140366692131465,Electricity 
+2018.0,Prince Edward Island,3.1.20,62784348,2.9115813598166653,Gas 
+2018.0,Prince Edward Island,3.1.21,62784349,147.3066004583652,Other fuels 
+2018.0,Prince Edward Island,3.1.22,62784350,231.5025057295643,Furnishings household equipment and other goods and services related to the dwelling and property 
+2018.0,Prince Edward Island,3.1.23,62784351,61.194041252864736,Furniture and furnishings 
+2018.0,Prince Edward Island,3.1.24,62784352,2.7201527883880843,Carpets and other floor coverings 
+2018.0,Prince Edward Island,3.1.25,62784353,13.49196333078686,Household textiles 
+2018.0,Prince Edward Island,3.1.26,62784354,27.31336898395716,Major household appliances 
+2018.0,Prince Edward Island,3.1.27,62784355,7.598655462184865,Small electric household appliances 
+2018.0,Prince Edward Island,3.1.28,62784356,14.341023682200216,Major tools and equipment 
+2018.0,Prince Edward Island,3.1.29,62784357,12.778166539343033,Small tools and miscellaneous accessories 
+2018.0,Prince Edward Island,3.1.30,62784358,24.429610389610275,Other semi-durable household goods 
+2018.0,Prince Edward Island,3.1.31,62784359,27.899526355996954,Other non-durable household goods 
+2018.0,Prince Edward Island,3.1.32,62784360,9.93367456073338,Repair of personal and household goods except vehicles 
+2018.0,Prince Edward Island,3.1.33,62784361,13.145255920550085,Renting and leasing of personal and household goods except passenger vehicles 
+2018.0,Prince Edward Island,3.1.34,62784362,16.642307104660063,Other services related to the dwelling and property 
+2018.0,Prince Edward Island,3.1.35,62784363,168.37292589763274,Health 
+2018.0,Prince Edward Island,3.1.36,62784364,92.19372039725022,Pharmaceutical products and other medical products 
+2018.0,Prince Edward Island,3.1.37,62784365,11.959602750191038,Therapeutic appliances and equipment 
+2018.0,Prince Edward Island,3.1.38,62784366,59.895492742551596,Out-patient services 
+2018.0,Prince Edward Island,3.1.39,62784367,4.348097784568381,Hospital services 
+2018.0,Prince Edward Island,3.1.40,62784368,700.2250267379713,Transport 
+2018.0,Prince Edward Island,3.1.41,62784369,75.27454545454566,New passenger cars 
+2018.0,Prince Edward Island,3.1.42,62784370,100.8592055003819,New trucks vans and sport utility vehicles 
+2018.0,Prince Edward Island,3.1.43,62784371,52.30394194041264,Used motor vehicles 
+2018.0,Prince Edward Island,3.1.44,62784372,3.7845378151260434,Other vehicles 
+2018.0,Prince Edward Island,3.1.45,62784373,64.02084033613437,Spare parts and accessories for vehicles 
+2018.0,Prince Edward Island,3.1.46,62784374,259.5409931245231,Fuels and lubricants 
+2018.0,Prince Edward Island,3.1.47,62784375,38.413231474407894,Maintenance and repair of vehicles 
+2018.0,Prince Edward Island,3.1.48,62784376,5.386569900687562,Parking 
+2018.0,Prince Edward Island,3.1.49,62784377,4.247532467532466,Passenger vehicle renting 
+2018.0,Prince Edward Island,3.1.50,62784378,38.97246753246736,Other services related to the operation of transport equipment 
+2018.0,Prince Edward Island,3.1.51,62784379,6.0433460656990405,Urban transit and interurban bus 
+2018.0,Prince Edward Island,3.1.52,62784380,3.5043544690603454,Taxi and limousine 
+2018.0,Prince Edward Island,3.1.53,62784381,34.30472116119154,Air transport 
+2018.0,Prince Edward Island,3.1.54,62784382,3.860595874713521,Railway and water transport 
+2018.0,Prince Edward Island,3.1.55,62784383,9.68869365928191,Other transport services 
+2018.0,Prince Edward Island,3.1.56,62784384,117.65650114591335,Communications 
+2018.0,Prince Edward Island,3.1.57,62784385,5.413735676088606,Postal services 
+2018.0,Prince Edward Island,3.1.58,62784386,3.38284186401836,Telecommunication equipment 
+2018.0,Prince Edward Island,3.1.59,62784387,108.8488617265084,Telecommunication services 
+2018.0,Prince Edward Island,3.1.60,62784388,358.69905271199605,Recreation and culture 
+2018.0,Prince Edward Island,3.1.61,62784389,27.310725744843467,Audio-visual and photographic equipment 
+2018.0,Prince Edward Island,3.1.62,62784390,12.579602750191043,Information processing equipment 
+2018.0,Prince Edward Island,3.1.63,62784391,9.474484339190212,Recording media 
+2018.0,Prince Edward Island,3.1.64,62784392,31.33506493506502,Major durables for outdoor recreation 
+2018.0,Prince Edward Island,3.1.65,62784393,3.122566844919774,Musical instruments and major durables for indoor recreation 
+2018.0,Prince Edward Island,3.1.66,62784394,27.325760122230577,Games toys and hobbies 
+2018.0,Prince Edward Island,3.1.67,62784395,20.260626432391177,Equipment for sport camping and open-air recreation 
+2018.0,Prince Edward Island,3.1.68,62784396,17.125500381970937,Garden products plants and flowers 
+2018.0,Prince Edward Island,3.1.69,62784397,16.747089381207047,Pets and pet food 
+2018.0,Prince Edward Island,3.1.70,62784398,9.611184110007684,Veterinary and other services for pets 
+2018.0,Prince Edward Island,3.1.71,62784399,29.171611917494374,Recreational and sporting services 
+2018.0,Prince Edward Island,3.1.72,62784400,45.86771581359835,Cable satellite and other program distribution services 
+2018.0,Prince Edward Island,3.1.73,62784401,4.576302521008415,Cinemas 
+2018.0,Prince Edward Island,3.1.74,62784402,4.366401833460657,Photographic services 
+2018.0,Prince Edward Island,3.1.75,62784403,11.81453017570675,Other cultural services 
+2018.0,Prince Edward Island,3.1.76,62784404,59.8355233002294,Games of chance 
+2018.0,Prince Edward Island,3.1.77,62784405,9.898792971734167,Books 
+2018.0,Prince Edward Island,3.1.78,62784406,8.721207028265866,Newspapers and periodicals 
+2018.0,Prince Edward Island,3.1.79,62784407,9.477540106951892,Miscellaneous printed matter and stationery and drawing materials 
+2018.0,Prince Edward Island,3.1.80,62784408,71.2492742551567,Education 
+2018.0,Prince Edward Island,3.1.81,62784409,32.00511841100047,University education 
+2018.0,Prince Edward Island,3.1.82,62784410,39.216669213139994,Other education 
+2018.0,Prince Edward Island,3.1.83,62784411,351.0768525592048,Food beverage and accommodation services 
+2018.0,Prince Edward Island,3.1.84,62784412,221.98077922077937,Food and non-alcoholic beverage services 
+2018.0,Prince Edward Island,3.1.85,62784413,43.5376012223071,Alcoholic beverage services 
+2018.0,Prince Edward Island,3.1.86,62784414,85.56427807486534,Accommodation services 
+2018.0,Prince Edward Island,3.1.87,62784415,336.76381970970033,Insurance and financial services 
+2018.0,Prince Edward Island,3.1.88,62784416,44.30748663101599,Life insurance 
+2018.0,Prince Edward Island,3.1.89,62784417,10.977051184109882,Property insurance 
+2018.0,Prince Edward Island,3.1.90,62784418,44.955248281130935,Health insurance 
+2018.0,Prince Edward Island,3.1.91,62784419,18.878411000764004,Insurance related to transport 
+2018.0,Prince Edward Island,3.1.92,62784420,64.8180290297937,Implicit loan charges 
+2018.0,Prince Edward Island,3.1.93,62784421,31.127303284950358,Implicit deposit charges 
+2018.0,Prince Edward Island,3.1.94,62784422,10.223162719633365,Stock and bond commissions 
+2018.0,Prince Edward Island,3.1.95,62784423,44.69902215431648,Other actual financial charges 
+2018.0,Prince Edward Island,3.1.96,62784424,17.382093200916643,Trusteed pension funds 
+2018.0,Prince Edward Island,3.1.97,62784425,49.41489686783825,Mutual funds 
+2018.0,Prince Edward Island,3.1.98,62784426,242.57300229182692,Miscellaneous goods and services 
+2018.0,Prince Edward Island,3.1.99,62784427,34.9084186401833,Personal grooming services 
+2018.0,Prince Edward Island,3.1.100,62784428,2.6288311688311694,Electrical appliances for personal care 
+2018.0,Prince Edward Island,3.1.101,62784429,60.55819709702064,Other appliances articles and products for personal care 
+2018.0,Prince Edward Island,3.1.102,62784430,12.952330022918261,Jewellery clocks and watches 
+2018.0,Prince Edward Island,3.1.103,62784431,11.838777692895349,Other personal effects 
+2018.0,Prince Edward Island,3.1.104,62784432,21.541879297173296,Child care services outside the home 
+2018.0,Prince Edward Island,3.1.105,62784433,2.573460656990079,Child care services in the home 
+2018.0,Prince Edward Island,3.1.106,62784434,64.01946524064215,Other social services and funeral services 
+2018.0,Prince Edward Island,3.1.107,62784435,31.5078533231474,Legal and other services 
+2018.0,Prince Edward Island,3.1.108,62784436,-90.20672268907583,Net expenditure abroad 
+2018.0,Prince Edward Island,3.1.109,62784437,67.6618945760124,Expenditure by Canadians abroad 
+2018.0,Prince Edward Island,3.1.110,62784438,173.7329258976315,Expenditure by Canadians in other provinces or territories 
+2018.0,Prince Edward Island,3.1.111,62784439,-101.34056531703618,Expenditure by non-residents in Canada 
+2018.0,Prince Edward Island,3.1.112,62784440,-230.29952635599693,Expenditure by Canadians residing in other provinces or territories 
+2018.0,Nova Scotia,4.1.1,62784553,29953.57234530174,Household final consumption expenditure 
+2018.0,Nova Scotia,4.1.2,62784554,2757.8026737967884,Food and non-alcoholic beverages 
+2018.0,Nova Scotia,4.1.3,62784555,2454.566447669975,Food 
+2018.0,Nova Scotia,4.1.4,62784556,303.17236058059643,Non-alcoholic beverages 
+2018.0,Nova Scotia,4.1.5,62784557,1288.0238044308571,Alcoholic beverages and tobacco 
+2018.0,Nova Scotia,4.1.6,62784558,655.1373873185657,Alcoholic beverages 
+2018.0,Nova Scotia,4.1.7,62784559,632.8774025974017,Tobacco 
+2018.0,Nova Scotia,4.1.8,62784560,1087.1048739495745,Clothing and footwear 
+2018.0,Nova Scotia,4.1.9,62784561,109.4720550038196,Clothing materials other articles of clothing and clothing accessories 
+2018.0,Nova Scotia,4.1.10,62784562,803.7378915202462,Garments 
+2018.0,Nova Scotia,4.1.11,62784563,37.398242933537176,Cleaning of clothing 
+2018.0,Nova Scotia,4.1.12,62784564,136.4639113827352,Footwear 
+2018.0,Nova Scotia,4.1.13,62784565,7877.363132161961,Housing water electricity gas and other fuels 
+2018.0,Nova Scotia,4.1.14,62784566,1269.3430557677639,Paid rental fees for housing 
+2018.0,Nova Scotia,4.1.15,62784567,4905.084782276535,Imputed rental fees for housing 
+2018.0,Nova Scotia,4.1.16,62784568,72.95666921314023,Materials for the maintenance and repair of the dwelling 
+2018.0,Nova Scotia,4.1.17,62784569,14.332528647822755,Services for the maintenance and repair of the dwelling 
+2018.0,Nova Scotia,4.1.18,62784570,108.853093964859,Water supply and sanitation services 
+2018.0,Nova Scotia,4.1.19,62784571,739.2292742551581,Electricity 
+2018.0,Nova Scotia,4.1.20,62784572,17.66249045072584,Gas 
+2018.0,Nova Scotia,4.1.21,62784573,749.9156149732589,Other fuels 
+2018.0,Nova Scotia,4.1.22,62784574,1512.9768525592008,Furnishings household equipment and other goods and services related to the dwelling and property 
+2018.0,Nova Scotia,4.1.23,62784575,394.345637891518,Furniture and furnishings 
+2018.0,Nova Scotia,4.1.24,62784576,16.777081741787697,Carpets and other floor coverings 
+2018.0,Nova Scotia,4.1.25,62784577,75.52151260504206,Household textiles 
+2018.0,Nova Scotia,4.1.26,62784578,150.1217112299464,Major household appliances 
+2018.0,Nova Scotia,4.1.27,62784579,47.18380443086312,Small electric household appliances 
+2018.0,Nova Scotia,4.1.28,62784580,95.87729564553138,Major tools and equipment 
+2018.0,Nova Scotia,4.1.29,62784581,74.20172650878521,Small tools and miscellaneous accessories 
+2018.0,Nova Scotia,4.1.30,62784582,170.91946524064133,Other semi-durable household goods 
+2018.0,Nova Scotia,4.1.31,62784583,230.6867226890754,Other non-durable household goods 
+2018.0,Nova Scotia,4.1.32,62784584,67.15980137509541,Repair of personal and household goods except vehicles 
+2018.0,Nova Scotia,4.1.33,62784585,86.1848892284188,Renting and leasing of personal and household goods except passenger vehicles 
+2018.0,Nova Scotia,4.1.34,62784586,104.04192513368889,Other services related to the dwelling and property 
+2018.0,Nova Scotia,4.1.35,62784587,1265.3318563789217,Health 
+2018.0,Nova Scotia,4.1.36,62784588,600.2756913674566,Pharmaceutical products and other medical products 
+2018.0,Nova Scotia,4.1.37,62784589,93.20973262032112,Therapeutic appliances and equipment 
+2018.0,Nova Scotia,4.1.38,62784590,503.5458059587472,Out-patient services 
+2018.0,Nova Scotia,4.1.39,62784591,68.28469060351426,Hospital services 
+2018.0,Nova Scotia,4.1.40,62784592,4545.856562261237,Transport 
+2018.0,Nova Scotia,4.1.41,62784593,615.2354927425513,New passenger cars 
+2018.0,Nova Scotia,4.1.42,62784594,712.05689839572,New trucks vans and sport utility vehicles 
+2018.0,Nova Scotia,4.1.43,62784595,397.84684491978624,Used motor vehicles 
+2018.0,Nova Scotia,4.1.44,62784596,60.910099312452076,Other vehicles 
+2018.0,Nova Scotia,4.1.45,62784597,423.1673185637883,Spare parts and accessories for vehicles 
+2018.0,Nova Scotia,4.1.46,62784598,1388.4721466768533,Fuels and lubricants 
+2018.0,Nova Scotia,4.1.47,62784599,259.84548510313107,Maintenance and repair of vehicles 
+2018.0,Nova Scotia,4.1.48,62784600,41.11750954927402,Parking 
+2018.0,Nova Scotia,4.1.49,62784601,37.523743315508,Passenger vehicle renting 
+2018.0,Nova Scotia,4.1.50,62784602,63.18029029793706,Other services related to the operation of transport equipment 
+2018.0,Nova Scotia,4.1.51,62784603,64.82577540106968,Urban transit and interurban bus 
+2018.0,Nova Scotia,4.1.52,62784604,25.848556149732644,Taxi and limousine 
+2018.0,Nova Scotia,4.1.53,62784605,373.8903743315532,Air transport 
+2018.0,Nova Scotia,4.1.54,62784606,23.58693659281903,Railway and water transport 
+2018.0,Nova Scotia,4.1.55,62784607,58.40951871657762,Other transport services 
+2018.0,Nova Scotia,4.1.56,62784608,830.6686631016055,Communications 
+2018.0,Nova Scotia,4.1.57,62784609,52.540061115355456,Postal services 
+2018.0,Nova Scotia,4.1.58,62784610,23.74996180290327,Telecommunication equipment 
+2018.0,Nova Scotia,4.1.59,62784611,754.414163483576,Telecommunication services 
+2018.0,Nova Scotia,4.1.60,62784612,2571.6352482811344,Recreation and culture 
+2018.0,Nova Scotia,4.1.61,62784613,185.638395721925,Audio-visual and photographic equipment 
+2018.0,Nova Scotia,4.1.62,62784614,104.54614209320061,Information processing equipment 
+2018.0,Nova Scotia,4.1.63,62784615,80.1075935828876,Recording media 
+2018.0,Nova Scotia,4.1.64,62784616,187.019297173415,Major durables for outdoor recreation 
+2018.0,Nova Scotia,4.1.65,62784617,27.851581359816464,Musical instruments and major durables for indoor recreation 
+2018.0,Nova Scotia,4.1.66,62784618,179.8132314744089,Games toys and hobbies 
+2018.0,Nova Scotia,4.1.67,62784619,141.81263559969466,Equipment for sport camping and open-air recreation 
+2018.0,Nova Scotia,4.1.68,62784620,91.61413292589805,Garden products plants and flowers 
+2018.0,Nova Scotia,4.1.69,62784621,118.32221543162723,Pets and pet food 
+2018.0,Nova Scotia,4.1.70,62784622,91.36707410236886,Veterinary and other services for pets 
+2018.0,Nova Scotia,4.1.71,62784623,222.96501145912953,Recreational and sporting services 
+2018.0,Nova Scotia,4.1.72,62784624,311.3451184109981,Cable satellite and other program distribution services 
+2018.0,Nova Scotia,4.1.73,62784625,33.41148968678385,Cinemas 
+2018.0,Nova Scotia,4.1.74,62784626,32.92802139037428,Photographic services 
+2018.0,Nova Scotia,4.1.75,62784627,58.37295645530958,Other cultural services 
+2018.0,Nova Scotia,4.1.76,62784628,467.5266615737237,Games of chance 
+2018.0,Nova Scotia,4.1.77,62784629,92.57364400305596,Books 
+2018.0,Nova Scotia,4.1.78,62784630,74.67098548510307,Newspapers and periodicals 
+2018.0,Nova Scotia,4.1.79,62784631,69.7628724216961,Miscellaneous printed matter and stationery and drawing materials 
+2018.0,Nova Scotia,4.1.80,62784632,515.2758288770056,Education 
+2018.0,Nova Scotia,4.1.81,62784633,390.7317035905253,University education 
+2018.0,Nova Scotia,4.1.82,62784634,124.5342551566091,Other education 
+2018.0,Nova Scotia,4.1.83,62784635,1995.1146524064097,Food beverage and accommodation services 
+2018.0,Nova Scotia,4.1.84,62784636,1400.397830404887,Food and non-alcoholic beverage services 
+2018.0,Nova Scotia,4.1.85,62784637,227.50715049656264,Alcoholic beverage services 
+2018.0,Nova Scotia,4.1.86,62784638,367.1980137509563,Accommodation services 
+2018.0,Nova Scotia,4.1.87,62784639,2298.7137051183963,Insurance and financial services 
+2018.0,Nova Scotia,4.1.88,62784640,259.682948815891,Life insurance 
+2018.0,Nova Scotia,4.1.89,62784641,48.87260504201686,Property insurance 
+2018.0,Nova Scotia,4.1.90,62784642,188.85721925133657,Health insurance 
+2018.0,Nova Scotia,4.1.91,62784643,159.44797555385685,Insurance related to transport 
+2018.0,Nova Scotia,4.1.92,62784644,497.75075630252104,Implicit loan charges 
+2018.0,Nova Scotia,4.1.93,62784645,194.62490450725727,Implicit deposit charges 
+2018.0,Nova Scotia,4.1.94,62784646,62.49306340718158,Stock and bond commissions 
+2018.0,Nova Scotia,4.1.95,62784647,354.8233919022132,Other actual financial charges 
+2018.0,Nova Scotia,4.1.96,62784648,110.84618792971742,Trusteed pension funds 
+2018.0,Nova Scotia,4.1.97,62784649,421.318823529411,Mutual funds 
+2018.0,Nova Scotia,4.1.98,62784650,1735.8443391902256,Miscellaneous goods and services 
+2018.0,Nova Scotia,4.1.99,62784651,224.6256073338427,Personal grooming services 
+2018.0,Nova Scotia,4.1.100,62784652,17.084965622612685,Electrical appliances for personal care 
+2018.0,Nova Scotia,4.1.101,62784653,468.189839572191,Other appliances articles and products for personal care 
+2018.0,Nova Scotia,4.1.102,62784654,109.92577540106913,Jewellery clocks and watches 
+2018.0,Nova Scotia,4.1.103,62784655,86.83888464476695,Other personal effects 
+2018.0,Nova Scotia,4.1.104,62784656,127.54507257448404,Child care services outside the home 
+2018.0,Nova Scotia,4.1.105,62784657,25.984797555385796,Child care services in the home 
+2018.0,Nova Scotia,4.1.106,62784658,407.5768831168825,Other social services and funeral services 
+2018.0,Nova Scotia,4.1.107,62784659,268.08927425515685,Legal and other services 
+2018.0,Nova Scotia,4.1.108,62784660,-328.1904965622598,Net expenditure abroad 
+2018.0,Nova Scotia,4.1.109,62784661,659.839831932768,Expenditure by Canadians abroad 
+2018.0,Nova Scotia,4.1.110,62784662,613.8988082505712,Expenditure by Canadians in other provinces or territories 
+2018.0,Nova Scotia,4.1.111,62784663,-677.0495951107732,Expenditure by non-residents in Canada 
+2018.0,Nova Scotia,4.1.112,62784664,-924.8853475935757,Expenditure by Canadians residing in other provinces or territories 
+2018.0,New Brunswick,5.1.1,62784777,22607.23239113833,Household final consumption expenditure 
+2018.0,New Brunswick,5.1.2,62784778,2151.772620320844,Food and non-alcoholic beverages 
+2018.0,New Brunswick,5.1.3,62784779,1893.7318411000742,Food 
+2018.0,New Brunswick,5.1.4,62784780,258.0138579068007,Non-alcoholic beverages 
+2018.0,New Brunswick,5.1.5,62784781,878.1486478227671,Alcoholic beverages and tobacco 
+2018.0,New Brunswick,5.1.6,62784782,420.6209320091675,Alcoholic beverages 
+2018.0,New Brunswick,5.1.7,62784783,457.5462643239116,Tobacco 
+2018.0,New Brunswick,5.1.8,62784784,861.7528953399524,Clothing and footwear 
+2018.0,New Brunswick,5.1.9,62784785,78.011871657754,Clothing materials other articles of clothing and clothing accessories 
+2018.0,New Brunswick,5.1.10,62784786,647.0682811306324,Garments 
+2018.0,New Brunswick,5.1.11,62784787,17.854866310160446,Cleaning of clothing 
+2018.0,New Brunswick,5.1.12,62784788,118.78711993888373,Footwear 
+2018.0,New Brunswick,5.1.13,62784789,5343.362948815891,Housing water electricity gas and other fuels 
+2018.0,New Brunswick,5.1.14,62784790,816.1560275019074,Paid rental fees for housing 
+2018.0,New Brunswick,5.1.15,62784791,3212.2525897631713,Imputed rental fees for housing 
+2018.0,New Brunswick,5.1.16,62784792,73.40290297937372,Materials for the maintenance and repair of the dwelling 
+2018.0,New Brunswick,5.1.17,62784793,10.076271963330782,Services for the maintenance and repair of the dwelling 
+2018.0,New Brunswick,5.1.18,62784794,117.46938120702907,Water supply and sanitation services 
+2018.0,New Brunswick,5.1.19,62784795,806.1031016042762,Electricity 
+2018.0,New Brunswick,5.1.20,62784796,24.41897631779989,Gas 
+2018.0,New Brunswick,5.1.21,62784797,283.456959511077,Other fuels 
+2018.0,New Brunswick,5.1.22,62784798,1234.992696715046,Furnishings household equipment and other goods and services related to the dwelling and property 
+2018.0,New Brunswick,5.1.23,62784799,303.12915202444674,Furniture and furnishings 
+2018.0,New Brunswick,5.1.24,62784800,14.056745607333824,Carpets and other floor coverings 
+2018.0,New Brunswick,5.1.25,62784801,60.55388846447704,Household textiles 
+2018.0,New Brunswick,5.1.26,62784802,140.37292589763183,Major household appliances 
+2018.0,New Brunswick,5.1.27,62784803,39.15491214667668,Small electric household appliances 
+2018.0,New Brunswick,5.1.28,62784804,77.94930481283427,Major tools and equipment 
+2018.0,New Brunswick,5.1.29,62784805,64.2516424751716,Small tools and miscellaneous accessories 
+2018.0,New Brunswick,5.1.30,62784806,151.276913674561,Other semi-durable household goods 
+2018.0,New Brunswick,5.1.31,62784807,180.19702062643228,Other non-durable household goods 
+2018.0,New Brunswick,5.1.32,62784808,57.21236058059549,Repair of personal and household goods except vehicles 
+2018.0,New Brunswick,5.1.33,62784809,68.02919786096254,Renting and leasing of personal and household goods except passenger vehicles 
+2018.0,New Brunswick,5.1.34,62784810,78.7869518716575,Other services related to the dwelling and property 
+2018.0,New Brunswick,5.1.35,62784811,1044.6739037433144,Health 
+2018.0,New Brunswick,5.1.36,62784812,508.464186401834,Pharmaceutical products and other medical products 
+2018.0,New Brunswick,5.1.37,62784813,73.77263559969424,Therapeutic appliances and equipment 
+2018.0,New Brunswick,5.1.38,62784814,416.56459893048304,Out-patient services 
+2018.0,New Brunswick,5.1.39,62784815,45.88201680672273,Hospital services 
+2018.0,New Brunswick,5.1.40,62784816,3639.435324675316,Transport 
+2018.0,New Brunswick,5.1.41,62784817,473.93391902215626,New passenger cars 
+2018.0,New Brunswick,5.1.42,62784818,662.7107104660026,New trucks vans and sport utility vehicles 
+2018.0,New Brunswick,5.1.43,62784819,327.7488464476719,Used motor vehicles 
+2018.0,New Brunswick,5.1.44,62784820,46.05766233766235,Other vehicles 
+2018.0,New Brunswick,5.1.45,62784821,381.9459587471356,Spare parts and accessories for vehicles 
+2018.0,New Brunswick,5.1.46,62784822,1203.0193124522557,Fuels and lubricants 
+2018.0,New Brunswick,5.1.47,62784823,209.70203208556086,Maintenance and repair of vehicles 
+2018.0,New Brunswick,5.1.48,62784824,30.686462948816143,Parking 
+2018.0,New Brunswick,5.1.49,62784825,18.34919786096259,Passenger vehicle renting 
+2018.0,New Brunswick,5.1.50,62784826,30.52019862490465,Other services related to the operation of transport equipment 
+2018.0,New Brunswick,5.1.51,62784827,17.144064171122977,Urban transit and interurban bus 
+2018.0,New Brunswick,5.1.52,62784828,19.182062643239078,Taxi and limousine 
+2018.0,New Brunswick,5.1.53,62784829,163.76187929717253,Air transport 
+2018.0,New Brunswick,5.1.54,62784830,25.029152024446148,Railway and water transport 
+2018.0,New Brunswick,5.1.55,62784831,29.56756302521012,Other transport services 
+2018.0,New Brunswick,5.1.56,62784832,595.4526814362107,Communications 
+2018.0,New Brunswick,5.1.57,62784833,28.164522536287222,Postal services 
+2018.0,New Brunswick,5.1.58,62784834,21.13017570664624,Telecommunication equipment 
+2018.0,New Brunswick,5.1.59,62784835,546.1479297173428,Telecommunication services 
+2018.0,New Brunswick,5.1.60,62784836,2016.3452711993887,Recreation and culture 
+2018.0,New Brunswick,5.1.61,62784837,152.28731856378909,Audio-visual and photographic equipment 
+2018.0,New Brunswick,5.1.62,62784838,83.9434988540861,Information processing equipment 
+2018.0,New Brunswick,5.1.63,62784839,67.15469824293359,Recording media 
+2018.0,New Brunswick,5.1.64,62784840,180.60887700534659,Major durables for outdoor recreation 
+2018.0,New Brunswick,5.1.65,62784841,22.337738731856234,Musical instruments and major durables for indoor recreation 
+2018.0,New Brunswick,5.1.66,62784842,157.06331550802133,Games toys and hobbies 
+2018.0,New Brunswick,5.1.67,62784843,114.97321619556988,Equipment for sport camping and open-air recreation 
+2018.0,New Brunswick,5.1.68,62784844,77.86846447669996,Garden products plants and flowers 
+2018.0,New Brunswick,5.1.69,62784845,94.70626432391145,Pets and pet food 
+2018.0,New Brunswick,5.1.70,62784846,45.97064935064918,Veterinary and other services for pets 
+2018.0,New Brunswick,5.1.71,62784847,181.0518716577535,Recreational and sporting services 
+2018.0,New Brunswick,5.1.72,62784848,238.4326050420168,Cable satellite and other program distribution services 
+2018.0,New Brunswick,5.1.73,62784849,21.386539343009986,Cinemas 
+2018.0,New Brunswick,5.1.74,62784850,24.250466004583586,Photographic services 
+2018.0,New Brunswick,5.1.75,62784851,44.96375859434693,Other cultural services 
+2018.0,New Brunswick,5.1.76,62784852,342.43213139801446,Games of chance 
+2018.0,New Brunswick,5.1.77,62784853,59.475401069518284,Books 
+2018.0,New Brunswick,5.1.78,62784854,51.784889228418706,Newspapers and periodicals 
+2018.0,New Brunswick,5.1.79,62784855,55.668006111535306,Miscellaneous printed matter and stationery and drawing materials 
+2018.0,New Brunswick,5.1.80,62784856,262.70822001527995,Education 
+2018.0,New Brunswick,5.1.81,62784857,174.9965469824292,University education 
+2018.0,New Brunswick,5.1.82,62784858,87.72061115355245,Other education 
+2018.0,New Brunswick,5.1.83,62784859,1393.1264476699798,Food beverage and accommodation services 
+2018.0,New Brunswick,5.1.84,62784860,1032.3236516424731,Food and non-alcoholic beverage services 
+2018.0,New Brunswick,5.1.85,62784861,152.99176470588236,Alcoholic beverage services 
+2018.0,New Brunswick,5.1.86,62784862,207.8240641711218,Accommodation services 
+2018.0,New Brunswick,5.1.87,62784863,1719.011825821246,Insurance and financial services 
+2018.0,New Brunswick,5.1.88,62784864,213.9106951871663,Life insurance 
+2018.0,New Brunswick,5.1.89,62784865,42.12982429335352,Property insurance 
+2018.0,New Brunswick,5.1.90,62784866,191.00583651642592,Health insurance 
+2018.0,New Brunswick,5.1.91,62784867,146.61184110007616,Insurance related to transport 
+2018.0,New Brunswick,5.1.92,62784868,320.4270129870147,Implicit loan charges 
+2018.0,New Brunswick,5.1.93,62784869,163.91573720397264,Implicit deposit charges 
+2018.0,New Brunswick,5.1.94,62784870,39.622582123758775,Stock and bond commissions 
+2018.0,New Brunswick,5.1.95,62784871,245.0211306340716,Other actual financial charges 
+2018.0,New Brunswick,5.1.96,62784872,92.79382734912178,Trusteed pension funds 
+2018.0,New Brunswick,5.1.97,62784873,263.61158135981896,Mutual funds 
+2018.0,New Brunswick,5.1.98,62784874,1247.3311229946557,Miscellaneous goods and services 
+2018.0,New Brunswick,5.1.99,62784875,174.4331092436978,Personal grooming services 
+2018.0,New Brunswick,5.1.100,62784876,13.226004583651616,Electrical appliances for personal care 
+2018.0,New Brunswick,5.1.101,62784877,343.2728647822769,Other appliances articles and products for personal care 
+2018.0,New Brunswick,5.1.102,62784878,80.50663101604277,Jewellery clocks and watches 
+2018.0,New Brunswick,5.1.103,62784879,61.17964858670712,Other personal effects 
+2018.0,New Brunswick,5.1.104,62784880,120.26467532467541,Child care services outside the home 
+2018.0,New Brunswick,5.1.105,62784881,23.62857142857149,Child care services in the home 
+2018.0,New Brunswick,5.1.106,62784882,275.1208250572945,Other social services and funeral services 
+2018.0,New Brunswick,5.1.107,62784883,155.67946524064155,Legal and other services 
+2018.0,New Brunswick,5.1.108,62784884,219.12146676852535,Net expenditure abroad 
+2018.0,New Brunswick,5.1.109,62784885,611.4293659281866,Expenditure by Canadians abroad 
+2018.0,New Brunswick,5.1.110,62784886,524.9451336898419,Expenditure by Canadians in other provinces or territories 
+2018.0,New Brunswick,5.1.111,62784887,-318.067165775401,Expenditure by non-residents in Canada 
+2018.0,New Brunswick,5.1.112,62784888,-599.1877616501151,Expenditure by Canadians residing in other provinces or territories 
+2018.0,Quebec,6.1.1,62785001,232806.44751718827,Household final consumption expenditure 
+2018.0,Quebec,6.1.2,62785002,23259.01532467536,Food and non-alcoholic beverages 
+2018.0,Quebec,6.1.3,62785003,20635.688113063457,Food 
+2018.0,Quebec,6.1.4,62785004,2623.297417876238,Non-alcoholic beverages 
+2018.0,Quebec,6.1.5,62785005,8696.596806722751,Alcoholic beverages and tobacco 
+2018.0,Quebec,6.1.6,62785006,5391.807150496548,Alcoholic beverages 
+2018.0,Quebec,6.1.7,62785007,3304.8012375859544,Tobacco 
+2018.0,Quebec,6.1.8,62785008,10366.006096256722,Clothing and footwear 
+2018.0,Quebec,6.1.9,62785009,745.1214514896856,Clothing materials other articles of clothing and clothing accessories 
+2018.0,Quebec,6.1.10,62785010,7755.038181818149,Garments 
+2018.0,Quebec,6.1.11,62785011,312.47827349121417,Cleaning of clothing 
+2018.0,Quebec,6.1.12,62785012,1553.3887089381242,Footwear 
+2018.0,Quebec,6.1.13,62785013,49671.77524828073,Housing water electricity gas and other fuels 
+2018.0,Quebec,6.1.14,62785014,12778.404446142144,Paid rental fees for housing 
+2018.0,Quebec,6.1.15,62785015,27786.033048128476,Imputed rental fees for housing 
+2018.0,Quebec,6.1.16,62785016,681.1904812834218,Materials for the maintenance and repair of the dwelling 
+2018.0,Quebec,6.1.17,62785017,78.87475935828843,Services for the maintenance and repair of the dwelling 
+2018.0,Quebec,6.1.18,62785018,717.6038044308625,Water supply and sanitation services 
+2018.0,Quebec,6.1.19,62785019,6187.1414362108335,Electricity 
+2018.0,Quebec,6.1.20,62785020,399.80583651642337,Gas 
+2018.0,Quebec,6.1.21,62785021,1042.7067226890758,Other fuels 
+2018.0,Quebec,6.1.22,62785022,13931.18750190991,Furnishings household equipment and other goods and services related to the dwelling and property 
+2018.0,Quebec,6.1.23,62785023,3928.1744843391934,Furniture and furnishings 
+2018.0,Quebec,6.1.24,62785024,129.04909090909132,Carpets and other floor coverings 
+2018.0,Quebec,6.1.25,62785025,824.1524064171135,Household textiles 
+2018.0,Quebec,6.1.26,62785026,1450.0116730328446,Major household appliances 
+2018.0,Quebec,6.1.27,62785027,434.6811611917474,Small electric household appliances 
+2018.0,Quebec,6.1.28,62785028,694.2477005347573,Major tools and equipment 
+2018.0,Quebec,6.1.29,62785029,586.6465087853321,Small tools and miscellaneous accessories 
+2018.0,Quebec,6.1.30,62785030,1445.1998013750926,Other semi-durable household goods 
+2018.0,Quebec,6.1.31,62785031,1771.0990985485114,Other non-durable household goods 
+2018.0,Quebec,6.1.32,62785032,647.5559205500358,Repair of personal and household goods except vehicles 
+2018.0,Quebec,6.1.33,62785033,823.1955080213957,Renting and leasing of personal and household goods except passenger vehicles 
+2018.0,Quebec,6.1.34,62785034,1197.157005347588,Other services related to the dwelling and property 
+2018.0,Quebec,6.1.35,62785035,10445.151214667712,Health 
+2018.0,Quebec,6.1.36,62785036,5126.268464476685,Pharmaceutical products and other medical products 
+2018.0,Quebec,6.1.37,62785037,809.4125744843404,Therapeutic appliances and equipment 
+2018.0,Quebec,6.1.38,62785038,3878.7620779220597,Out-patient services 
+2018.0,Quebec,6.1.39,62785039,630.7401986249024,Hospital services 
+2018.0,Quebec,6.1.40,62785040,37390.40027501923,Transport 
+2018.0,Quebec,6.1.41,62785041,6887.474698242935,New passenger cars 
+2018.0,Quebec,6.1.42,62785042,5787.322536287247,New trucks vans and sport utility vehicles 
+2018.0,Quebec,6.1.43,62785043,3357.068036669196,Used motor vehicles 
+2018.0,Quebec,6.1.44,62785044,737.2752330022922,Other vehicles 
+2018.0,Quebec,6.1.45,62785045,3617.8519327731046,Spare parts and accessories for vehicles 
+2018.0,Quebec,6.1.46,62785046,9647.538334606565,Fuels and lubricants 
+2018.0,Quebec,6.1.47,62785047,2299.893888464474,Maintenance and repair of vehicles 
+2018.0,Quebec,6.1.48,62785048,552.3574025974012,Parking 
+2018.0,Quebec,6.1.49,62785049,178.83755538579044,Passenger vehicle renting 
+2018.0,Quebec,6.1.50,62785050,314.7780748663099,Other services related to the operation of transport equipment 
+2018.0,Quebec,6.1.51,62785051,1236.5362108479821,Urban transit and interurban bus 
+2018.0,Quebec,6.1.52,62785052,241.30681436210762,Taxi and limousine 
+2018.0,Quebec,6.1.53,62785053,1841.767624140557,Air transport 
+2018.0,Quebec,6.1.54,62785054,125.95466768525603,Railway and water transport 
+2018.0,Quebec,6.1.55,62785055,564.4344690603502,Other transport services 
+2018.0,Quebec,6.1.56,62785056,5657.850863254396,Communications 
+2018.0,Quebec,6.1.57,62785057,269.48184873949504,Postal services 
+2018.0,Quebec,6.1.58,62785058,198.77489686783701,Telecommunication equipment 
+2018.0,Quebec,6.1.59,62785059,5189.615935828886,Telecommunication services 
+2018.0,Quebec,6.1.60,62785060,20156.672925897525,Recreation and culture 
+2018.0,Quebec,6.1.61,62785061,1939.1423682200184,Audio-visual and photographic equipment 
+2018.0,Quebec,6.1.62,62785062,935.8024446142081,Information processing equipment 
+2018.0,Quebec,6.1.63,62785063,740.9926967150459,Recording media 
+2018.0,Quebec,6.1.64,62785064,1626.4464782276627,Major durables for outdoor recreation 
+2018.0,Quebec,6.1.65,62785065,295.8285714285721,Musical instruments and major durables for indoor recreation 
+2018.0,Quebec,6.1.66,62785066,1130.7219098548521,Games toys and hobbies 
+2018.0,Quebec,6.1.67,62785067,1308.8908632543898,Equipment for sport camping and open-air recreation 
+2018.0,Quebec,6.1.68,62785068,705.3861573720387,Garden products plants and flowers 
+2018.0,Quebec,6.1.69,62785069,762.5952941176438,Pets and pet food 
+2018.0,Quebec,6.1.70,62785070,428.54649350649197,Veterinary and other services for pets 
+2018.0,Quebec,6.1.71,62785071,1848.0479755538545,Recreational and sporting services 
+2018.0,Quebec,6.1.72,62785072,2025.2019251336897,Cable satellite and other program distribution services 
+2018.0,Quebec,6.1.73,62785073,255.13758594346837,Cinemas 
+2018.0,Quebec,6.1.74,62785074,168.58847975553863,Photographic services 
+2018.0,Quebec,6.1.75,62785075,614.9629335370519,Other cultural services 
+2018.0,Quebec,6.1.76,62785076,3651.3235752482724,Games of chance 
+2018.0,Quebec,6.1.77,62785077,732.0536440030519,Books 
+2018.0,Quebec,6.1.78,62785078,534.6014820473647,Newspapers and periodicals 
+2018.0,Quebec,6.1.79,62785079,452.36606569900687,Miscellaneous printed matter and stationery and drawing materials 
+2018.0,Quebec,6.1.80,62785080,2576.523911382741,Education 
+2018.0,Quebec,6.1.81,62785081,922.0129564553135,University education 
+2018.0,Quebec,6.1.82,62785082,1654.4895798319485,Other education 
+2018.0,Quebec,6.1.83,62785083,16482.170404889155,Food beverage and accommodation services 
+2018.0,Quebec,6.1.84,62785084,11351.027838044334,Food and non-alcoholic beverage services 
+2018.0,Quebec,6.1.85,62785085,2910.875416348339,Alcoholic beverage services 
+2018.0,Quebec,6.1.86,62785086,2220.2805958747194,Accommodation services 
+2018.0,Quebec,6.1.87,62785087,20349.476699770894,Insurance and financial services 
+2018.0,Quebec,6.1.88,62785088,2439.61234530175,Life insurance 
+2018.0,Quebec,6.1.89,62785089,561.6931856378906,Property insurance 
+2018.0,Quebec,6.1.90,62785090,1831.412284186401,Health insurance 
+2018.0,Quebec,6.1.91,62785091,1807.4570206264325,Insurance related to transport 
+2018.0,Quebec,6.1.92,62785092,2492.314041252859,Implicit loan charges 
+2018.0,Quebec,6.1.93,62785093,2315.683040488919,Implicit deposit charges 
+2018.0,Quebec,6.1.94,62785094,866.8319022154319,Stock and bond commissions 
+2018.0,Quebec,6.1.95,62785095,2927.7548357524793,Other actual financial charges 
+2018.0,Quebec,6.1.96,62785096,1080.7989610389632,Trusteed pension funds 
+2018.0,Quebec,6.1.97,62785097,4025.9435446906136,Mutual funds 
+2018.0,Quebec,6.1.98,62785098,12369.491245225305,Miscellaneous goods and services 
+2018.0,Quebec,6.1.99,62785099,2281.364996180302,Personal grooming services 
+2018.0,Quebec,6.1.100,62785100,154.77306340718133,Electrical appliances for personal care 
+2018.0,Quebec,6.1.101,62785101,3567.0856837280444,Other appliances articles and products for personal care 
+2018.0,Quebec,6.1.102,62785102,790.6586707410243,Jewellery clocks and watches 
+2018.0,Quebec,6.1.103,62785103,697.9215431627235,Other personal effects 
+2018.0,Quebec,6.1.104,62785104,1259.7429946524062,Child care services outside the home 
+2018.0,Quebec,6.1.105,62785105,164.85772345301757,Child care services in the home 
+2018.0,Quebec,6.1.106,62785106,1776.5433766233764,Other social services and funeral services 
+2018.0,Quebec,6.1.107,62785107,1676.579129106176,Legal and other services 
+2018.0,Quebec,6.1.108,62785108,1454.0978304048913,Net expenditure abroad 
+2018.0,Quebec,6.1.109,62785109,7016.049304812797,Expenditure by Canadians abroad 
+2018.0,Quebec,6.1.110,62785110,1470.6953705118358,Expenditure by Canadians in other provinces or territories 
+2018.0,Quebec,6.1.111,62785111,-4683.566111535503,Expenditure by non-residents in Canada 
+2018.0,Quebec,6.1.112,62785112,-2349.0967456073267,Expenditure by Canadians residing in other provinces or territories 
+2018.0,Ontario,7.1.1,62785225,439753.34316271916,Household final consumption expenditure 
+2018.0,Ontario,7.1.2,62785226,37345.35168831167,Food and non-alcoholic beverages 
+2018.0,Ontario,7.1.3,62785227,33468.7856531702,Food 
+2018.0,Ontario,7.1.4,62785228,3876.555462184857,Non-alcoholic beverages 
+2018.0,Ontario,7.1.5,62785229,12700.237326203205,Alcoholic beverages and tobacco 
+2018.0,Ontario,7.1.6,62785230,7360.871245225368,Alcoholic beverages 
+2018.0,Ontario,7.1.7,62785231,5339.34265851794,Tobacco 
+2018.0,Ontario,7.1.8,62785232,17789.77692895336,Clothing and footwear 
+2018.0,Ontario,7.1.9,62785233,1691.139633307852,Clothing materials other articles of clothing and clothing accessories 
+2018.0,Ontario,7.1.10,62785234,12743.584339190158,Garments 
+2018.0,Ontario,7.1.11,62785235,852.120244461421,Cleaning of clothing 
+2018.0,Ontario,7.1.12,62785236,2502.9528189457633,Footwear 
+2018.0,Ontario,7.1.13,62785237,102812.90550038125,Housing water electricity gas and other fuels 
+2018.0,Ontario,7.1.14,62785238,21026.936226126738,Paid rental fees for housing 
+2018.0,Ontario,7.1.15,62785239,65135.36895339936,Imputed rental fees for housing 
+2018.0,Ontario,7.1.16,62785240,1164.9728189457674,Materials for the maintenance and repair of the dwelling 
+2018.0,Ontario,7.1.17,62785241,175.90476699770807,Services for the maintenance and repair of the dwelling 
+2018.0,Ontario,7.1.18,62785242,2797.145194805198,Water supply and sanitation services 
+2018.0,Ontario,7.1.19,62785243,7193.800122230779,Electricity 
+2018.0,Ontario,7.1.20,62785244,4374.420794499631,Gas 
+2018.0,Ontario,7.1.21,62785245,944.3518869365907,Other fuels 
+2018.0,Ontario,7.1.22,62785246,23812.807899159612,Furnishings household equipment and other goods and services related to the dwelling and property 
+2018.0,Ontario,7.1.23,62785247,6531.370022918272,Furniture and furnishings 
+2018.0,Ontario,7.1.24,62785248,300.5108326967129,Carpets and other floor coverings 
+2018.0,Ontario,7.1.25,62785249,1402.3329411764716,Household textiles 
+2018.0,Ontario,7.1.26,62785250,2290.291841100072,Major household appliances 
+2018.0,Ontario,7.1.27,62785251,722.309915966387,Small electric household appliances 
+2018.0,Ontario,7.1.28,62785252,1158.2892895339974,Major tools and equipment 
+2018.0,Ontario,7.1.29,62785253,993.9923453017545,Small tools and miscellaneous accessories 
+2018.0,Ontario,7.1.30,62785254,2695.549656226125,Other semi-durable household goods 
+2018.0,Ontario,7.1.31,62785255,2998.3189457601256,Other non-durable household goods 
+2018.0,Ontario,7.1.32,62785256,1163.5574789915918,Repair of personal and household goods except vehicles 
+2018.0,Ontario,7.1.33,62785257,1537.2870588235237,Renting and leasing of personal and household goods except passenger vehicles 
+2018.0,Ontario,7.1.34,62785258,2019.0444461420993,Other services related to the dwelling and property 
+2018.0,Ontario,7.1.35,62785259,18678.282245989307,Health 
+2018.0,Ontario,7.1.36,62785260,7920.375217723486,Pharmaceutical products and other medical products 
+2018.0,Ontario,7.1.37,62785261,1531.2751718869258,Therapeutic appliances and equipment 
+2018.0,Ontario,7.1.38,62785262,8161.114285714284,Out-patient services 
+2018.0,Ontario,7.1.39,62785263,1065.5351871657695,Hospital services 
+2018.0,Ontario,7.1.40,62785264,64047.37926661596,Transport 
+2018.0,Ontario,7.1.41,62785265,8470.933582887694,New passenger cars 
+2018.0,Ontario,7.1.42,62785266,11565.055813598214,New trucks vans and sport utility vehicles 
+2018.0,Ontario,7.1.43,62785267,5669.780183346011,Used motor vehicles 
+2018.0,Ontario,7.1.44,62785268,1129.84025974026,Other vehicles 
+2018.0,Ontario,7.1.45,62785269,5057.203514132911,Spare parts and accessories for vehicles 
+2018.0,Ontario,7.1.46,62785270,16937.542826585122,Fuels and lubricants 
+2018.0,Ontario,7.1.47,62785271,3450.4722230710613,Maintenance and repair of vehicles 
+2018.0,Ontario,7.1.48,62785272,1162.9596791443837,Parking 
+2018.0,Ontario,7.1.49,62785273,514.1344690603546,Passenger vehicle renting 
+2018.0,Ontario,7.1.50,62785274,1110.764293353699,Other services related to the operation of transport equipment 
+2018.0,Ontario,7.1.51,62785275,2626.333735676104,Urban transit and interurban bus 
+2018.0,Ontario,7.1.52,62785276,490.74557677616394,Taxi and limousine 
+2018.0,Ontario,7.1.53,62785277,4588.631092436961,Air transport 
+2018.0,Ontario,7.1.54,62785278,196.55330786860213,Railway and water transport 
+2018.0,Ontario,7.1.55,62785279,1076.368831168831,Other transport services 
+2018.0,Ontario,7.1.56,62785280,11486.496058059623,Communications 
+2018.0,Ontario,7.1.57,62785281,641.4939801375112,Postal services 
+2018.0,Ontario,7.1.58,62785282,426.3328036669227,Telecommunication equipment 
+2018.0,Ontario,7.1.59,62785283,10418.62872421695,Telecommunication services 
+2018.0,Ontario,7.1.60,62785284,38924.893964858726,Recreation and culture 
+2018.0,Ontario,7.1.61,62785285,3244.9991138273617,Audio-visual and photographic equipment 
+2018.0,Ontario,7.1.62,62785286,1914.904705882349,Information processing equipment 
+2018.0,Ontario,7.1.63,62785287,1308.8119786096286,Recording media 
+2018.0,Ontario,7.1.64,62785288,2103.636149732629,Major durables for outdoor recreation 
+2018.0,Ontario,7.1.65,62785289,472.0971275783013,Musical instruments and major durables for indoor recreation 
+2018.0,Ontario,7.1.66,62785290,2506.4388693659275,Games toys and hobbies 
+2018.0,Ontario,7.1.67,62785291,1959.6127272727317,Equipment for sport camping and open-air recreation 
+2018.0,Ontario,7.1.68,62785292,1476.1865699006885,Garden products plants and flowers 
+2018.0,Ontario,7.1.69,62785293,1585.3568831168814,Pets and pet food 
+2018.0,Ontario,7.1.70,62785294,1305.1741176470678,Veterinary and other services for pets 
+2018.0,Ontario,7.1.71,62785295,4547.187410236831,Recreational and sporting services 
+2018.0,Ontario,7.1.72,62785296,4026.353032849467,Cable satellite and other program distribution services 
+2018.0,Ontario,7.1.73,62785297,570.2139343009912,Cinemas 
+2018.0,Ontario,7.1.74,62785298,468.7749121466786,Photographic services 
+2018.0,Ontario,7.1.75,62785299,1197.6335676088638,Other cultural services 
+2018.0,Ontario,7.1.76,62785300,6957.157830404933,Games of chance 
+2018.0,Ontario,7.1.77,62785301,1326.0003208556082,Books 
+2018.0,Ontario,7.1.78,62785302,1040.661145912909,Newspapers and periodicals 
+2018.0,Ontario,7.1.79,62785303,913.5882505729533,Miscellaneous printed matter and stationery and drawing materials 
+2018.0,Ontario,7.1.80,62785304,7654.9449045073125,Education 
+2018.0,Ontario,7.1.81,62785305,4266.505485103116,University education 
+2018.0,Ontario,7.1.82,62785306,3388.4142857142724,Other education 
+2018.0,Ontario,7.1.83,62785307,28772.910252100788,Food beverage and accommodation services 
+2018.0,Ontario,7.1.84,62785308,21004.335095492774,Food and non-alcoholic beverage services 
+2018.0,Ontario,7.1.85,62785309,4094.6438044308743,Alcoholic beverage services 
+2018.0,Ontario,7.1.86,62785310,3673.9532467532554,Accommodation services 
+2018.0,Ontario,7.1.87,62785311,42727.618655462284,Insurance and financial services 
+2018.0,Ontario,7.1.88,62785312,4566.321268143627,Life insurance 
+2018.0,Ontario,7.1.89,62785313,889.9514285714249,Property insurance 
+2018.0,Ontario,7.1.90,62785314,2945.0177998472063,Health insurance 
+2018.0,Ontario,7.1.91,62785315,3102.317158135993,Insurance related to transport 
+2018.0,Ontario,7.1.92,62785316,6857.910404889262,Implicit loan charges 
+2018.0,Ontario,7.1.93,62785317,5773.670557677571,Implicit deposit charges 
+2018.0,Ontario,7.1.94,62785318,1937.25031321618,Stock and bond commissions 
+2018.0,Ontario,7.1.95,62785319,7265.691520244465,Other actual financial charges 
+2018.0,Ontario,7.1.96,62785320,2010.0768678380555,Trusteed pension funds 
+2018.0,Ontario,7.1.97,62785321,7379.450954927423,Mutual funds 
+2018.0,Ontario,7.1.98,62785322,23696.2001375095,Miscellaneous goods and services 
+2018.0,Ontario,7.1.99,62785323,3792.3635446905973,Personal grooming services 
+2018.0,Ontario,7.1.100,62785324,258.1083728036665,Electrical appliances for personal care 
+2018.0,Ontario,7.1.101,62785325,6163.947486630932,Other appliances articles and products for personal care 
+2018.0,Ontario,7.1.102,62785326,1724.7874866310158,Jewellery clocks and watches 
+2018.0,Ontario,7.1.103,62785327,1240.0681588999214,Other personal effects 
+2018.0,Ontario,7.1.104,62785328,2121.5347288006014,Child care services outside the home 
+2018.0,Ontario,7.1.105,62785329,579.7823223835003,Child care services in the home 
+2018.0,Ontario,7.1.106,62785330,4036.639404125279,Other social services and funeral services 
+2018.0,Ontario,7.1.107,62785331,3778.9555233002175,Legal and other services 
+2018.0,Ontario,7.1.108,62785332,9303.584323911346,Net expenditure abroad 
+2018.0,Ontario,7.1.109,62785333,18757.271596638602,Expenditure by Canadians abroad 
+2018.0,Ontario,7.1.110,62785334,3809.5848128342186,Expenditure by Canadians in other provinces or territories 
+2018.0,Ontario,7.1.111,62785335,-10391.132070282707,Expenditure by non-residents in Canada 
+2018.0,Ontario,7.1.112,62785336,-2872.1471657754155,Expenditure by Canadians residing in other provinces or territories 
+2018.0,Manitoba,8.1.1,62785449,37395.56546982424,Household final consumption expenditure 
+2018.0,Manitoba,8.1.2,62785450,3455.4311993888405,Food and non-alcoholic beverages 
+2018.0,Manitoba,8.1.3,62785451,3017.6174789915967,Food 
+2018.0,Manitoba,8.1.4,62785452,437.81353705118454,Non-alcoholic beverages 
+2018.0,Manitoba,8.1.5,62785453,1511.5051031321636,Alcoholic beverages and tobacco 
+2018.0,Manitoba,8.1.6,62785454,729.6933537051191,Alcoholic beverages 
+2018.0,Manitoba,8.1.7,62785455,781.7965928189442,Tobacco 
+2018.0,Manitoba,8.1.8,62785456,1422.2678227654687,Clothing and footwear 
+2018.0,Manitoba,8.1.9,62785457,122.34591291061861,Clothing materials other articles of clothing and clothing accessories 
+2018.0,Manitoba,8.1.10,62785458,1026.2913521772352,Garments 
+2018.0,Manitoba,8.1.11,62785459,42.04262796027507,Cleaning of clothing 
+2018.0,Manitoba,8.1.12,62785460,231.59254392666298,Footwear 
+2018.0,Manitoba,8.1.13,62785461,8664.601054239902,Housing water electricity gas and other fuels 
+2018.0,Manitoba,8.1.14,62785462,1594.5051184110198,Paid rental fees for housing 
+2018.0,Manitoba,8.1.15,62785463,5721.567379679123,Imputed rental fees for housing 
+2018.0,Manitoba,8.1.16,62785464,103.77110771581374,Materials for the maintenance and repair of the dwelling 
+2018.0,Manitoba,8.1.17,62785465,16.78820473643998,Services for the maintenance and repair of the dwelling 
+2018.0,Manitoba,8.1.18,62785466,218.72553093964962,Water supply and sanitation services 
+2018.0,Manitoba,8.1.19,62785467,732.7588082505754,Electricity 
+2018.0,Manitoba,8.1.20,62785468,258.96065699006886,Gas 
+2018.0,Manitoba,8.1.21,62785469,17.50715049656219,Other fuels 
+2018.0,Manitoba,8.1.22,62785470,2075.0321161191823,Furnishings household equipment and other goods and services related to the dwelling and property 
+2018.0,Manitoba,8.1.23,62785471,611.0687394957968,Furniture and furnishings 
+2018.0,Manitoba,8.1.24,62785472,21.589136745607448,Carpets and other floor coverings 
+2018.0,Manitoba,8.1.25,62785473,92.97628724216929,Household textiles 
+2018.0,Manitoba,8.1.26,62785474,215.3995263559973,Major household appliances 
+2018.0,Manitoba,8.1.27,62785475,61.656103896104014,Small electric household appliances 
+2018.0,Manitoba,8.1.28,62785476,117.99118411000745,Major tools and equipment 
+2018.0,Manitoba,8.1.29,62785477,91.38881588999266,Small tools and miscellaneous accessories 
+2018.0,Manitoba,8.1.30,62785478,240.91145912910724,Other semi-durable household goods 
+2018.0,Manitoba,8.1.31,62785479,299.04189457601206,Other non-durable household goods 
+2018.0,Manitoba,8.1.32,62785480,100.2824140565317,Repair of personal and household goods except vehicles 
+2018.0,Manitoba,8.1.33,62785481,115.15755538579106,Renting and leasing of personal and household goods except passenger vehicles 
+2018.0,Manitoba,8.1.34,62785482,107.56114591291134,Other services related to the dwelling and property 
+2018.0,Manitoba,8.1.35,62785483,1454.7323147440766,Health 
+2018.0,Manitoba,8.1.36,62785484,657.0672116119167,Pharmaceutical products and other medical products 
+2018.0,Manitoba,8.1.37,62785485,151.9199388846455,Therapeutic appliances and equipment 
+2018.0,Manitoba,8.1.38,62785486,604.6047211611913,Out-patient services 
+2018.0,Manitoba,8.1.39,62785487,41.13168831168832,Hospital services 
+2018.0,Manitoba,8.1.40,62785488,5291.024843391904,Transport 
+2018.0,Manitoba,8.1.41,62785489,442.5059434682971,New passenger cars 
+2018.0,Manitoba,8.1.42,62785490,1053.564965622616,New trucks vans and sport utility vehicles 
+2018.0,Manitoba,8.1.43,62785491,454.12901451489597,Used motor vehicles 
+2018.0,Manitoba,8.1.44,62785492,108.8642627960271,Other vehicles 
+2018.0,Manitoba,8.1.45,62785493,593.3809167303298,Spare parts and accessories for vehicles 
+2018.0,Manitoba,8.1.46,62785494,1567.497005347599,Fuels and lubricants 
+2018.0,Manitoba,8.1.47,62785495,367.64605042016774,Maintenance and repair of vehicles 
+2018.0,Manitoba,8.1.48,62785496,111.20472116119163,Parking 
+2018.0,Manitoba,8.1.49,62785497,38.075278838808345,Passenger vehicle renting 
+2018.0,Manitoba,8.1.50,62785498,46.19511077158131,Other services related to the operation of transport equipment 
+2018.0,Manitoba,8.1.51,62785499,125.50058059587445,Urban transit and interurban bus 
+2018.0,Manitoba,8.1.52,62785500,32.01654698242942,Taxi and limousine 
+2018.0,Manitoba,8.1.53,62785501,281.5684950343766,Air transport 
+2018.0,Manitoba,8.1.54,62785502,2.3238349885408525,Railway and water transport 
+2018.0,Manitoba,8.1.55,62785503,66.55489686783812,Other transport services 
+2018.0,Manitoba,8.1.56,62785504,984.2668296409465,Communications 
+2018.0,Manitoba,8.1.57,62785505,51.779037433155054,Postal services 
+2018.0,Manitoba,8.1.58,62785506,35.74711993888468,Telecommunication equipment 
+2018.0,Manitoba,8.1.59,62785507,896.7222001527844,Telecommunication services 
+2018.0,Manitoba,8.1.60,62785508,3867.65417876243,Recreation and culture 
+2018.0,Manitoba,8.1.61,62785509,314.0664476699785,Audio-visual and photographic equipment 
+2018.0,Manitoba,8.1.62,62785510,149.62912146676717,Information processing equipment 
+2018.0,Manitoba,8.1.63,62785511,124.61714285714243,Recording media 
+2018.0,Manitoba,8.1.64,62785512,279.24624904507255,Major durables for outdoor recreation 
+2018.0,Manitoba,8.1.65,62785513,46.78055003819691,Musical instruments and major durables for indoor recreation 
+2018.0,Manitoba,8.1.66,62785514,239.89069518716678,Games toys and hobbies 
+2018.0,Manitoba,8.1.67,62785515,205.75280366692277,Equipment for sport camping and open-air recreation 
+2018.0,Manitoba,8.1.68,62785516,127.28594346829595,Garden products plants and flowers 
+2018.0,Manitoba,8.1.69,62785517,161.88496562261207,Pets and pet food 
+2018.0,Manitoba,8.1.70,62785518,75.02415584415576,Veterinary and other services for pets 
+2018.0,Manitoba,8.1.71,62785519,412.88514896867855,Recreational and sporting services 
+2018.0,Manitoba,8.1.72,62785520,364.8532009167284,Cable satellite and other program distribution services 
+2018.0,Manitoba,8.1.73,62785521,38.16250572956437,Cinemas 
+2018.0,Manitoba,8.1.74,62785522,41.08227654698237,Photographic services 
+2018.0,Manitoba,8.1.75,62785523,113.768021390375,Other cultural services 
+2018.0,Manitoba,8.1.76,62785524,883.346203208559,Games of chance 
+2018.0,Manitoba,8.1.77,62785525,109.3801222307111,Books 
+2018.0,Manitoba,8.1.78,62785526,97.15245225362878,Newspapers and periodicals 
+2018.0,Manitoba,8.1.79,62785527,82.81925133689856,Miscellaneous printed matter and stationery and drawing materials 
+2018.0,Manitoba,8.1.80,62785528,421.9353093964892,Education 
+2018.0,Manitoba,8.1.81,62785529,212.7827043544712,University education 
+2018.0,Manitoba,8.1.82,62785530,209.15822765469784,Other education 
+2018.0,Manitoba,8.1.83,62785531,2064.9454851031333,Food beverage and accommodation services 
+2018.0,Manitoba,8.1.84,62785532,1538.3144843391856,Food and non-alcoholic beverage services 
+2018.0,Manitoba,8.1.85,62785533,262.9599694423223,Alcoholic beverage services 
+2018.0,Manitoba,8.1.86,62785534,263.69903743315626,Accommodation services 
+2018.0,Manitoba,8.1.87,62785535,3030.6904965622525,Insurance and financial services 
+2018.0,Manitoba,8.1.88,62785536,425.2661115355222,Life insurance 
+2018.0,Manitoba,8.1.89,62785537,113.760168067226,Property insurance 
+2018.0,Manitoba,8.1.90,62785538,184.74945760122137,Health insurance 
+2018.0,Manitoba,8.1.91,62785539,256.7705271199393,Insurance related to transport 
+2018.0,Manitoba,8.1.92,62785540,404.8434530175691,Implicit loan charges 
+2018.0,Manitoba,8.1.93,62785541,366.9852864782297,Implicit deposit charges 
+2018.0,Manitoba,8.1.94,62785542,102.800656990069,Stock and bond commissions 
+2018.0,Manitoba,8.1.95,62785543,513.4505118411034,Other actual financial charges 
+2018.0,Manitoba,8.1.96,62785544,161.73689839572035,Trusteed pension funds 
+2018.0,Manitoba,8.1.97,62785545,500.3206875477481,Mutual funds 
+2018.0,Manitoba,8.1.98,62785546,1974.8198472116055,Miscellaneous goods and services 
+2018.0,Manitoba,8.1.99,62785547,276.6974637127587,Personal grooming services 
+2018.0,Manitoba,8.1.100,62785548,23.70617265087867,Electrical appliances for personal care 
+2018.0,Manitoba,8.1.101,62785549,511.8089992360583,Other appliances articles and products for personal care 
+2018.0,Manitoba,8.1.102,62785550,148.41423987776852,Jewellery clocks and watches 
+2018.0,Manitoba,8.1.103,62785551,107.55214667685232,Other personal effects 
+2018.0,Manitoba,8.1.104,62785552,121.62912146676899,Child care services outside the home 
+2018.0,Manitoba,8.1.105,62785553,20.07526355996947,Child care services in the home 
+2018.0,Manitoba,8.1.106,62785554,517.9701909854848,Other social services and funeral services 
+2018.0,Manitoba,8.1.107,62785555,246.9548510313216,Legal and other services 
+2018.0,Manitoba,8.1.108,62785556,1176.6577540107028,Net expenditure abroad 
+2018.0,Manitoba,8.1.109,62785557,1302.4774178762455,Expenditure by Canadians abroad 
+2018.0,Manitoba,8.1.110,62785558,581.2132467532501,Expenditure by Canadians in other provinces or territories 
+2018.0,Manitoba,8.1.111,62785559,-391.30800611153427,Expenditure by non-residents in Canada 
+2018.0,Manitoba,8.1.112,62785560,-315.6959358288768,Expenditure by Canadians residing in other provinces or territories 
+2018.0,Saskatchewan,9.1.1,62785673,34491.44369747909,Household final consumption expenditure 
+2018.0,Saskatchewan,9.1.2,62785674,3012.5498242933536,Food and non-alcoholic beverages 
+2018.0,Saskatchewan,9.1.3,62785675,2637.8273185637954,Food 
+2018.0,Saskatchewan,9.1.4,62785676,374.70209320091635,Non-alcoholic beverages 
+2018.0,Saskatchewan,9.1.5,62785677,1291.2702062643293,Alcoholic beverages and tobacco 
+2018.0,Saskatchewan,9.1.6,62785678,581.9188693659271,Alcoholic beverages 
+2018.0,Saskatchewan,9.1.7,62785679,709.3785943468283,Tobacco 
+2018.0,Saskatchewan,9.1.8,62785680,1275.181436210849,Clothing and footwear 
+2018.0,Saskatchewan,9.1.9,62785681,102.28475171886976,Clothing materials other articles of clothing and clothing accessories 
+2018.0,Saskatchewan,9.1.10,62785682,940.4226890756327,Garments 
+2018.0,Saskatchewan,9.1.11,62785683,22.193613445378162,Cleaning of clothing 
+2018.0,Saskatchewan,9.1.12,62785684,210.24656990068615,Footwear 
+2018.0,Saskatchewan,9.1.13,62785685,8258.488999236084,Housing water electricity gas and other fuels 
+2018.0,Saskatchewan,9.1.14,62785686,1389.9902215431648,Paid rental fees for housing 
+2018.0,Saskatchewan,9.1.15,62785687,5544.694346829609,Imputed rental fees for housing 
+2018.0,Saskatchewan,9.1.16,62785688,112.61588999236028,Materials for the maintenance and repair of the dwelling 
+2018.0,Saskatchewan,9.1.17,62785689,13.190710466004475,Services for the maintenance and repair of the dwelling 
+2018.0,Saskatchewan,9.1.18,62785690,253.59038961038823,Water supply and sanitation services 
+2018.0,Saskatchewan,9.1.19,62785691,551.6132925897618,Electricity 
+2018.0,Saskatchewan,9.1.20,62785692,369.9282047364395,Gas 
+2018.0,Saskatchewan,9.1.21,62785693,22.848999236058035,Other fuels 
+2018.0,Saskatchewan,9.1.22,62785694,1860.1774789915944,Furnishings household equipment and other goods and services related to the dwelling and property 
+2018.0,Saskatchewan,9.1.23,62785695,484.95350649350803,Furniture and furnishings 
+2018.0,Saskatchewan,9.1.24,62785696,23.780275019098553,Carpets and other floor coverings 
+2018.0,Saskatchewan,9.1.25,62785697,99.8384110007637,Household textiles 
+2018.0,Saskatchewan,9.1.26,62785698,207.03203972497977,Major household appliances 
+2018.0,Saskatchewan,9.1.27,62785699,66.15136745607288,Small electric household appliances 
+2018.0,Saskatchewan,9.1.28,62785700,131.52653934300997,Major tools and equipment 
+2018.0,Saskatchewan,9.1.29,62785701,100.92143621084779,Small tools and miscellaneous accessories 
+2018.0,Saskatchewan,9.1.30,62785702,194.2555538579063,Other semi-durable household goods 
+2018.0,Saskatchewan,9.1.31,62785703,252.9961650114601,Other non-durable household goods 
+2018.0,Saskatchewan,9.1.32,62785704,91.9616653934304,Repair of personal and household goods except vehicles 
+2018.0,Saskatchewan,9.1.33,62785705,111.19506493506378,Renting and leasing of personal and household goods except passenger vehicles 
+2018.0,Saskatchewan,9.1.34,62785706,95.56385026737917,Other services related to the dwelling and property 
+2018.0,Saskatchewan,9.1.35,62785707,1361.818334606578,Health 
+2018.0,Saskatchewan,9.1.36,62785708,667.3455614973282,Pharmaceutical products and other medical products 
+2018.0,Saskatchewan,9.1.37,62785709,123.71048128342136,Therapeutic appliances and equipment 
+2018.0,Saskatchewan,9.1.38,62785710,510.1675935828862,Out-patient services 
+2018.0,Saskatchewan,9.1.39,62785711,60.596822001527926,Hospital services 
+2018.0,Saskatchewan,9.1.40,62785712,5140.552650878526,Transport 
+2018.0,Saskatchewan,9.1.41,62785713,345.5678533231476,New passenger cars 
+2018.0,Saskatchewan,9.1.42,62785714,1302.4948815890093,New trucks vans and sport utility vehicles 
+2018.0,Saskatchewan,9.1.43,62785715,399.59993888464305,Used motor vehicles 
+2018.0,Saskatchewan,9.1.44,62785716,64.87757066462927,Other vehicles 
+2018.0,Saskatchewan,9.1.45,62785717,566.2732314744062,Spare parts and accessories for vehicles 
+2018.0,Saskatchewan,9.1.46,62785718,1620.3403819709783,Fuels and lubricants 
+2018.0,Saskatchewan,9.1.47,62785719,370.73107715813603,Maintenance and repair of vehicles 
+2018.0,Saskatchewan,9.1.48,62785720,69.0399236058056,Parking 
+2018.0,Saskatchewan,9.1.49,62785721,29.773216195569148,Passenger vehicle renting 
+2018.0,Saskatchewan,9.1.50,62785722,40.52012223071051,Other services related to the operation of transport equipment 
+2018.0,Saskatchewan,9.1.51,62785723,57.24788388082516,Urban transit and interurban bus 
+2018.0,Saskatchewan,9.1.52,62785724,25.177692895339987,Taxi and limousine 
+2018.0,Saskatchewan,9.1.53,62785725,202.93159663865663,Air transport 
+2018.0,Saskatchewan,9.1.54,62785726,0.19040488922841803,Railway and water transport 
+2018.0,Saskatchewan,9.1.55,62785727,45.79379679144404,Other transport services 
+2018.0,Saskatchewan,9.1.56,62785728,904.8491673032913,Communications 
+2018.0,Saskatchewan,9.1.57,62785729,47.68297937356783,Postal services 
+2018.0,Saskatchewan,9.1.58,62785730,34.53404125286488,Telecommunication equipment 
+2018.0,Saskatchewan,9.1.59,62785731,822.6072727272767,Telecommunication services 
+2018.0,Saskatchewan,9.1.60,62785732,3531.9987929717463,Recreation and culture 
+2018.0,Saskatchewan,9.1.61,62785733,268.5765317035912,Audio-visual and photographic equipment 
+2018.0,Saskatchewan,9.1.62,62785734,136.03813598166562,Information processing equipment 
+2018.0,Saskatchewan,9.1.63,62785735,121.22021390374266,Recording media 
+2018.0,Saskatchewan,9.1.64,62785736,319.06791443850307,Major durables for outdoor recreation 
+2018.0,Saskatchewan,9.1.65,62785737,43.332650878533286,Musical instruments and major durables for indoor recreation 
+2018.0,Saskatchewan,9.1.66,62785738,194.29368983957102,Games toys and hobbies 
+2018.0,Saskatchewan,9.1.67,62785739,208.2706799083262,Equipment for sport camping and open-air recreation 
+2018.0,Saskatchewan,9.1.68,62785740,106.20698242933486,Garden products plants and flowers 
+2018.0,Saskatchewan,9.1.69,62785741,112.10452253628682,Pets and pet food 
+2018.0,Saskatchewan,9.1.70,62785742,55.77914438502694,Veterinary and other services for pets 
+2018.0,Saskatchewan,9.1.71,62785743,340.1805958747136,Recreational and sporting services 
+2018.0,Saskatchewan,9.1.72,62785744,327.40724216959643,Cable satellite and other program distribution services 
+2018.0,Saskatchewan,9.1.73,62785745,28.093170359052692,Cinemas 
+2018.0,Saskatchewan,9.1.74,62785746,36.43601222307109,Photographic services 
+2018.0,Saskatchewan,9.1.75,62785747,112.22710466004628,Other cultural services 
+2018.0,Saskatchewan,9.1.76,62785748,887.7676394194059,Games of chance 
+2018.0,Saskatchewan,9.1.77,62785749,84.5926355996944,Books 
+2018.0,Saskatchewan,9.1.78,62785750,76.18033613445368,Newspapers and periodicals 
+2018.0,Saskatchewan,9.1.79,62785751,74.23876241405696,Miscellaneous printed matter and stationery and drawing materials 
+2018.0,Saskatchewan,9.1.80,62785752,331.8061115355231,Education 
+2018.0,Saskatchewan,9.1.81,62785753,213.28846447670003,University education 
+2018.0,Saskatchewan,9.1.82,62785754,118.51943468296395,Other education 
+2018.0,Saskatchewan,9.1.83,62785755,2046.39072574483,Food beverage and accommodation services 
+2018.0,Saskatchewan,9.1.84,62785756,1416.1731856378901,Food and non-alcoholic beverage services 
+2018.0,Saskatchewan,9.1.85,62785757,349.62039724980787,Alcoholic beverage services 
+2018.0,Saskatchewan,9.1.86,62785758,280.6019862490448,Accommodation services 
+2018.0,Saskatchewan,9.1.87,62785759,2899.8883880825015,Insurance and financial services 
+2018.0,Saskatchewan,9.1.88,62785760,296.4375706646297,Life insurance 
+2018.0,Saskatchewan,9.1.89,62785761,94.2015126050419,Property insurance 
+2018.0,Saskatchewan,9.1.90,62785762,188.2614056531711,Health insurance 
+2018.0,Saskatchewan,9.1.91,62785763,160.5913063407179,Insurance related to transport 
+2018.0,Saskatchewan,9.1.92,62785764,495.5137203972481,Implicit loan charges 
+2018.0,Saskatchewan,9.1.93,62785765,362.7467838044304,Implicit deposit charges 
+2018.0,Saskatchewan,9.1.94,62785766,74.85388846447677,Stock and bond commissions 
+2018.0,Saskatchewan,9.1.95,62785767,523.1316119174917,Other actual financial charges 
+2018.0,Saskatchewan,9.1.96,62785768,129.90956455309606,Trusteed pension funds 
+2018.0,Saskatchewan,9.1.97,62785769,574.2733842627931,Mutual funds 
+2018.0,Saskatchewan,9.1.98,62785770,1638.1092589763139,Miscellaneous goods and services 
+2018.0,Saskatchewan,9.1.99,62785771,239.34851031321705,Personal grooming services 
+2018.0,Saskatchewan,9.1.100,62785772,23.351443850267515,Electrical appliances for personal care 
+2018.0,Saskatchewan,9.1.101,62785773,434.3043239113831,Other appliances articles and products for personal care 
+2018.0,Saskatchewan,9.1.102,62785774,135.0169595110774,Jewellery clocks and watches 
+2018.0,Saskatchewan,9.1.103,62785775,100.42267379679197,Other personal effects 
+2018.0,Saskatchewan,9.1.104,62785776,132.1508632543928,Child care services outside the home 
+2018.0,Saskatchewan,9.1.105,62785777,22.450909090909107,Child care services in the home 
+2018.0,Saskatchewan,9.1.106,62785778,352.4843239113834,Other social services and funeral services 
+2018.0,Saskatchewan,9.1.107,62785779,198.540366692132,Legal and other services 
+2018.0,Saskatchewan,9.1.108,62785780,938.3785943468247,Net expenditure abroad 
+2018.0,Saskatchewan,9.1.109,62785781,845.9026890756286,Expenditure by Canadians abroad 
+2018.0,Saskatchewan,9.1.110,62785782,743.7608861726549,Expenditure by Canadians in other provinces or territories 
+2018.0,Saskatchewan,9.1.111,62785783,-206.65437738731816,Expenditure by non-residents in Canada 
+2018.0,Saskatchewan,9.1.112,62785784,-444.64482811306516,Expenditure by Canadians residing in other provinces or territories 
+2018.0,Alberta,10.1.1,62785897,143611.41100076493,Household final consumption expenditure 
+2018.0,Alberta,10.1.2,62785898,12115.324950343813,Food and non-alcoholic beverages 
+2018.0,Alberta,10.1.3,62785899,10555.076195569127,Food 
+2018.0,Alberta,10.1.4,62785900,1560.2629488159,Non-alcoholic beverages 
+2018.0,Alberta,10.1.5,62785901,5012.761115355213,Alcoholic beverages and tobacco 
+2018.0,Alberta,10.1.6,62785902,2552.4536134453665,Alcoholic beverages 
+2018.0,Alberta,10.1.7,62785903,2460.3136440030503,Tobacco 
+2018.0,Alberta,10.1.8,62785904,6181.815462184837,Clothing and footwear 
+2018.0,Alberta,10.1.9,62785905,580.8879755538583,Clothing materials other articles of clothing and clothing accessories 
+2018.0,Alberta,10.1.10,62785906,4536.0348968678445,Garments 
+2018.0,Alberta,10.1.11,62785907,158.4098395721926,Cleaning of clothing 
+2018.0,Alberta,10.1.12,62785908,906.4867685255886,Footwear 
+2018.0,Alberta,10.1.13,62785909,33393.189809014555,Housing water electricity gas and other fuels 
+2018.0,Alberta,10.1.14,62785910,6088.720275019063,Paid rental fees for housing 
+2018.0,Alberta,10.1.15,62785911,22625.146310160402,Imputed rental fees for housing 
+2018.0,Alberta,10.1.16,62785912,416.97844155843995,Materials for the maintenance and repair of the dwelling 
+2018.0,Alberta,10.1.17,62785913,54.82137509549284,Services for the maintenance and repair of the dwelling 
+2018.0,Alberta,10.1.18,62785914,1180.11003819709,Water supply and sanitation services 
+2018.0,Alberta,10.1.19,62785915,1456.2041252864728,Electricity 
+2018.0,Alberta,10.1.20,62785916,1521.7064323911327,Gas 
+2018.0,Alberta,10.1.21,62785917,49.54875477463713,Other fuels 
+2018.0,Alberta,10.1.22,62785918,7950.9138731856365,Furnishings household equipment and other goods and services related to the dwelling and property 
+2018.0,Alberta,10.1.23,62785919,2238.072055003824,Furniture and furnishings 
+2018.0,Alberta,10.1.24,62785920,110.30750190985418,Carpets and other floor coverings 
+2018.0,Alberta,10.1.25,62785921,471.21598166539115,Household textiles 
+2018.0,Alberta,10.1.26,62785922,830.899129106183,Major household appliances 
+2018.0,Alberta,10.1.27,62785923,256.68481283422443,Small electric household appliances 
+2018.0,Alberta,10.1.28,62785924,389.0489839572183,Major tools and equipment 
+2018.0,Alberta,10.1.29,62785925,355.11367456073276,Small tools and miscellaneous accessories 
+2018.0,Alberta,10.1.30,62785926,925.5833919022189,Other semi-durable household goods 
+2018.0,Alberta,10.1.31,62785927,1013.4815737203971,Other non-durable household goods 
+2018.0,Alberta,10.1.32,62785928,374.51456073338704,Repair of personal and household goods except vehicles 
+2018.0,Alberta,10.1.33,62785929,438.6115355233014,Renting and leasing of personal and household goods except passenger vehicles 
+2018.0,Alberta,10.1.34,62785930,547.4003361344548,Other services related to the dwelling and property 
+2018.0,Alberta,10.1.35,62785931,5790.117754010716,Health 
+2018.0,Alberta,10.1.36,62785932,2111.8942704354413,Pharmaceutical products and other medical products 
+2018.0,Alberta,10.1.37,62785933,498.0139343009905,Therapeutic appliances and equipment 
+2018.0,Alberta,10.1.38,62785934,2630.0558441558387,Out-patient services 
+2018.0,Alberta,10.1.39,62785935,550.1742245989299,Hospital services 
+2018.0,Alberta,10.1.40,62785936,21988.564736439846,Transport 
+2018.0,Alberta,10.1.41,62785937,1817.2997860962641,New passenger cars 
+2018.0,Alberta,10.1.42,62785938,5171.160106951895,New trucks vans and sport utility vehicles 
+2018.0,Alberta,10.1.43,62785939,1886.3572956455318,Used motor vehicles 
+2018.0,Alberta,10.1.44,62785940,467.49246753246916,Other vehicles 
+2018.0,Alberta,10.1.45,62785941,2179.5407944996114,Spare parts and accessories for vehicles 
+2018.0,Alberta,10.1.46,62785942,5289.265179526352,Fuels and lubricants 
+2018.0,Alberta,10.1.47,62785943,1362.568143621087,Maintenance and repair of vehicles 
+2018.0,Alberta,10.1.48,62785944,361.0723453017563,Parking 
+2018.0,Alberta,10.1.49,62785945,223.00093200916672,Passenger vehicle renting 
+2018.0,Alberta,10.1.50,62785946,184.2898701298709,Other services related to the operation of transport equipment 
+2018.0,Alberta,10.1.51,62785947,519.785393430102,Urban transit and interurban bus 
+2018.0,Alberta,10.1.52,62785948,152.2506187929721,Taxi and limousine 
+2018.0,Alberta,10.1.53,62785949,2026.159251336896,Air transport 
+2018.0,Alberta,10.1.54,62785950,15.392070282658494,Railway and water transport 
+2018.0,Alberta,10.1.55,62785951,332.9189304812844,Other transport services 
+2018.0,Alberta,10.1.56,62785952,3687.0983346065623,Communications 
+2018.0,Alberta,10.1.57,62785953,193.7404889228419,Postal services 
+2018.0,Alberta,10.1.58,62785954,134.2909702062634,Telecommunication equipment 
+2018.0,Alberta,10.1.59,62785955,3359.0633766233805,Telecommunication services 
+2018.0,Alberta,10.1.60,62785956,14544.241986248991,Recreation and culture 
+2018.0,Alberta,10.1.61,62785957,1305.788968678382,Audio-visual and photographic equipment 
+2018.0,Alberta,10.1.62,62785958,658.1736134453822,Information processing equipment 
+2018.0,Alberta,10.1.63,62785959,510.7791291061876,Recording media 
+2018.0,Alberta,10.1.64,62785960,1126.1781359816596,Major durables for outdoor recreation 
+2018.0,Alberta,10.1.65,62785961,198.34534759358394,Musical instruments and major durables for indoor recreation 
+2018.0,Alberta,10.1.66,62785962,858.2246906035216,Games toys and hobbies 
+2018.0,Alberta,10.1.67,62785963,767.0341940412545,Equipment for sport camping and open-air recreation 
+2018.0,Alberta,10.1.68,62785964,523.8739801375086,Garden products plants and flowers 
+2018.0,Alberta,10.1.69,62785965,576.8706799083266,Pets and pet food 
+2018.0,Alberta,10.1.70,62785966,349.6712605042012,Veterinary and other services for pets 
+2018.0,Alberta,10.1.71,62785967,1441.2184721161175,Recreational and sporting services 
+2018.0,Alberta,10.1.72,62785968,1196.1096256684395,Cable satellite and other program distribution services 
+2018.0,Alberta,10.1.73,62785969,178.42322383498686,Cinemas 
+2018.0,Alberta,10.1.74,62785970,157.3884644767004,Photographic services 
+2018.0,Alberta,10.1.75,62785971,402.1359663865551,Other cultural services 
+2018.0,Alberta,10.1.76,62785972,3263.0882658518094,Games of chance 
+2018.0,Alberta,10.1.77,62785973,440.33587471352075,Books 
+2018.0,Alberta,10.1.78,62785974,269.663254392668,Newspapers and periodicals 
+2018.0,Alberta,10.1.79,62785975,321.0060198624906,Miscellaneous printed matter and stationery and drawing materials 
+2018.0,Alberta,10.1.80,62785976,1918.3872574484267,Education 
+2018.0,Alberta,10.1.81,62785977,713.2395874713548,University education 
+2018.0,Alberta,10.1.82,62785978,1205.1654698242928,Other education 
+2018.0,Alberta,10.1.83,62785979,10459.253155080252,Food beverage and accommodation services 
+2018.0,Alberta,10.1.84,62785980,7674.39155080216,Food and non-alcoholic beverage services 
+2018.0,Alberta,10.1.85,62785981,1310.8734912146683,Alcoholic beverage services 
+2018.0,Alberta,10.1.86,62785982,1473.9637585943565,Accommodation services 
+2018.0,Alberta,10.1.87,62785983,12357.950939648552,Insurance and financial services 
+2018.0,Alberta,10.1.88,62785984,1277.2934912146666,Life insurance 
+2018.0,Alberta,10.1.89,62785985,226.06948815889882,Property insurance 
+2018.0,Alberta,10.1.90,62785986,580.7646753246772,Health insurance 
+2018.0,Alberta,10.1.91,62785987,822.3580290297978,Insurance related to transport 
+2018.0,Alberta,10.1.92,62785988,2021.187899159675,Implicit loan charges 
+2018.0,Alberta,10.1.93,62785989,1335.2040030557619,Implicit deposit charges 
+2018.0,Alberta,10.1.94,62785990,523.340290297936,Stock and bond commissions 
+2018.0,Alberta,10.1.95,62785991,1845.440702826585,Other actual financial charges 
+2018.0,Alberta,10.1.96,62785992,638.0244155844193,Trusteed pension funds 
+2018.0,Alberta,10.1.97,62785993,3088.230588235281,Mutual funds 
+2018.0,Alberta,10.1.98,62785994,6360.684782276512,Miscellaneous goods and services 
+2018.0,Alberta,10.1.99,62785995,1075.7820320855608,Personal grooming services 
+2018.0,Alberta,10.1.100,62785996,89.11136745607382,Electrical appliances for personal care 
+2018.0,Alberta,10.1.101,62785997,1759.7807181054086,Other appliances articles and products for personal care 
+2018.0,Alberta,10.1.102,62785998,660.8145607333827,Jewellery clocks and watches 
+2018.0,Alberta,10.1.103,62785999,442.48227654697985,Other personal effects 
+2018.0,Alberta,10.1.104,62786000,611.0257142857154,Child care services outside the home 
+2018.0,Alberta,10.1.105,62786001,152.9051336898392,Child care services in the home 
+2018.0,Alberta,10.1.106,62786002,722.6808097784524,Other social services and funeral services 
+2018.0,Alberta,10.1.107,62786003,846.1190832696739,Legal and other services 
+2018.0,Alberta,10.1.108,62786004,1851.0097173415124,Net expenditure abroad 
+2018.0,Alberta,10.1.109,62786005,4468.544094728801,Expenditure by Canadians abroad 
+2018.0,Alberta,10.1.110,62786006,2160.113017570664,Expenditure by Canadians in other provinces or territories 
+2018.0,Alberta,10.1.111,62786007,-2790.4166692131257,Expenditure by non-residents in Canada 
+2018.0,Alberta,10.1.112,62786008,-1987.2167150496534,Expenditure by Canadians residing in other provinces or territories 
+2018.0,British Columbia,11.1.1,62786121,160994.1459129108,Household final consumption expenditure 
+2018.0,British Columbia,11.1.2,62786122,14304.658838808304,Food and non-alcoholic beverages 
+2018.0,British Columbia,11.1.3,62786123,12851.977112299413,Food 
+2018.0,British Columbia,11.1.4,62786124,1452.6729717341514,Non-alcoholic beverages 
+2018.0,British Columbia,11.1.5,62786125,5286.263223835005,Alcoholic beverages and tobacco 
+2018.0,British Columbia,11.1.6,62786126,3140.463132161967,Alcoholic beverages 
+2018.0,British Columbia,11.1.7,62786127,2145.781436210862,Tobacco 
+2018.0,British Columbia,11.1.8,62786128,5858.399205500376,Clothing and footwear 
+2018.0,British Columbia,11.1.9,62786129,648.2625362872386,Clothing materials other articles of clothing and clothing accessories 
+2018.0,British Columbia,11.1.10,62786130,4058.454973262036,Garments 
+2018.0,British Columbia,11.1.11,62786131,218.0334759358284,Cleaning of clothing 
+2018.0,British Columbia,11.1.12,62786132,933.6105729564588,Footwear 
+2018.0,British Columbia,11.1.13,62786133,43575.454132926185,Housing water electricity gas and other fuels 
+2018.0,British Columbia,11.1.14,62786134,10142.331825821195,Paid rental fees for housing 
+2018.0,British Columbia,11.1.15,62786135,28736.051153552253,Imputed rental fees for housing 
+2018.0,British Columbia,11.1.16,62786136,346.79390374331706,Materials for the maintenance and repair of the dwelling 
+2018.0,British Columbia,11.1.17,62786137,64.89216195569134,Services for the maintenance and repair of the dwelling 
+2018.0,British Columbia,11.1.18,62786138,880.092956455308,Water supply and sanitation services 
+2018.0,British Columbia,11.1.19,62786139,2035.3703132162045,Electricity 
+2018.0,British Columbia,11.1.20,62786140,1188.6084339190202,Gas 
+2018.0,British Columbia,11.1.21,62786141,181.2615431627196,Other fuels 
+2018.0,British Columbia,11.1.22,62786142,8418.90456837276,Furnishings household equipment and other goods and services related to the dwelling and property 
+2018.0,British Columbia,11.1.23,62786143,2372.828388082504,Furniture and furnishings 
+2018.0,British Columbia,11.1.24,62786144,118.95550802139041,Carpets and other floor coverings 
+2018.0,British Columbia,11.1.25,62786145,441.5982582123761,Household textiles 
+2018.0,British Columbia,11.1.26,62786146,759.5126661573668,Major household appliances 
+2018.0,British Columbia,11.1.27,62786147,250.24517952635506,Small electric household appliances 
+2018.0,British Columbia,11.1.28,62786148,410.54556149732525,Major tools and equipment 
+2018.0,British Columbia,11.1.29,62786149,314.71573720397464,Small tools and miscellaneous accessories 
+2018.0,British Columbia,11.1.30,62786150,992.0480061115304,Other semi-durable household goods 
+2018.0,British Columbia,11.1.31,62786151,980.6506493506531,Other non-durable household goods 
+2018.0,British Columbia,11.1.32,62786152,423.0511993888467,Repair of personal and household goods except vehicles 
+2018.0,British Columbia,11.1.33,62786153,548.6322689075605,Renting and leasing of personal and household goods except passenger vehicles 
+2018.0,British Columbia,11.1.34,62786154,806.2061268143589,Other services related to the dwelling and property 
+2018.0,British Columbia,11.1.35,62786155,6313.3910160428495,Health 
+2018.0,British Columbia,11.1.36,62786156,2310.95165775402,Pharmaceutical products and other medical products 
+2018.0,British Columbia,11.1.37,62786157,559.4003361344548,Therapeutic appliances and equipment 
+2018.0,British Columbia,11.1.38,62786158,3023.7382887700514,Out-patient services 
+2018.0,British Columbia,11.1.39,62786159,419.29682200152456,Hospital services 
+2018.0,British Columbia,11.1.40,62786160,21170.335126050515,Transport 
+2018.0,British Columbia,11.1.41,62786161,2414.030252100827,New passenger cars 
+2018.0,British Columbia,11.1.42,62786162,3653.2923605805845,New trucks vans and sport utility vehicles 
+2018.0,British Columbia,11.1.43,62786163,1652.6722994652373,Used motor vehicles 
+2018.0,British Columbia,11.1.44,62786164,404.0829640947304,Other vehicles 
+2018.0,British Columbia,11.1.45,62786165,2260.5695187165693,Spare parts and accessories for vehicles 
+2018.0,British Columbia,11.1.46,62786166,5011.372543926671,Fuels and lubricants 
+2018.0,British Columbia,11.1.47,62786167,1344.778686019854,Maintenance and repair of vehicles 
+2018.0,British Columbia,11.1.48,62786168,363.26708938120646,Parking 
+2018.0,British Columbia,11.1.49,62786169,211.28918258212434,Passenger vehicle renting 
+2018.0,British Columbia,11.1.50,62786170,258.61385790679924,Other services related to the operation of transport equipment 
+2018.0,British Columbia,11.1.51,62786171,783.6309396485885,Urban transit and interurban bus 
+2018.0,British Columbia,11.1.52,62786172,173.19938884644944,Taxi and limousine 
+2018.0,British Columbia,11.1.53,62786173,1948.3762108479714,Air transport 
+2018.0,British Columbia,11.1.54,62786174,303.960626432392,Railway and water transport 
+2018.0,British Columbia,11.1.55,62786175,387.182368220012,Other transport services 
+2018.0,British Columbia,11.1.56,62786176,4059.920626432402,Communications 
+2018.0,British Columbia,11.1.57,62786177,262.1933537051191,Postal services 
+2018.0,British Columbia,11.1.58,62786178,123.45709702062686,Telecommunication equipment 
+2018.0,British Columbia,11.1.59,62786179,3674.2714744079567,Telecommunication services 
+2018.0,British Columbia,11.1.60,62786180,14473.604629488196,Recreation and culture 
+2018.0,British Columbia,11.1.61,62786181,1310.8322841863992,Audio-visual and photographic equipment 
+2018.0,British Columbia,11.1.62,62786182,675.974377387327,Information processing equipment 
+2018.0,British Columbia,11.1.63,62786183,505.91393430099197,Recording media 
+2018.0,British Columbia,11.1.64,62786184,1022.0093200916745,Major durables for outdoor recreation 
+2018.0,British Columbia,11.1.65,62786185,215.96348357524766,Musical instruments and major durables for indoor recreation 
+2018.0,British Columbia,11.1.66,62786186,781.5902826585152,Games toys and hobbies 
+2018.0,British Columbia,11.1.67,62786187,851.0813750954912,Equipment for sport camping and open-air recreation 
+2018.0,British Columbia,11.1.68,62786188,541.9041405653152,Garden products plants and flowers 
+2018.0,British Columbia,11.1.69,62786189,558.3396180290329,Pets and pet food 
+2018.0,British Columbia,11.1.70,62786190,427.8687089381201,Veterinary and other services for pets 
+2018.0,British Columbia,11.1.71,62786191,1697.3571886936552,Recreational and sporting services 
+2018.0,British Columbia,11.1.72,62786192,1360.486004583654,Cable satellite and other program distribution services 
+2018.0,British Columbia,11.1.73,62786193,193.89026737967833,Cinemas 
+2018.0,British Columbia,11.1.74,62786194,154.3020168067228,Photographic services 
+2018.0,British Columbia,11.1.75,62786195,453.6230099312452,Other cultural services 
+2018.0,British Columbia,11.1.76,62786196,2645.5524369747727,Games of chance 
+2018.0,British Columbia,11.1.77,62786197,476.94675324675336,Books 
+2018.0,British Columbia,11.1.78,62786198,267.29352177234523,Newspapers and periodicals 
+2018.0,British Columbia,11.1.79,62786199,332.63743315507963,Miscellaneous printed matter and stationery and drawing materials 
+2018.0,British Columbia,11.1.80,62786200,2880.6104965622653,Education 
+2018.0,British Columbia,11.1.81,62786201,1184.6664476699661,University education 
+2018.0,British Columbia,11.1.82,62786202,1695.933766233764,Other education 
+2018.0,British Columbia,11.1.83,62786203,12167.592605041922,Food beverage and accommodation services 
+2018.0,British Columbia,11.1.84,62786204,8094.993139801372,Food and non-alcoholic beverage services 
+2018.0,British Columbia,11.1.85,62786205,1626.81773873185,Alcoholic beverage services 
+2018.0,British Columbia,11.1.86,62786206,2445.782582123764,Accommodation services 
+2018.0,British Columbia,11.1.87,62786207,14291.364262796007,Insurance and financial services 
+2018.0,British Columbia,11.1.88,62786208,1451.7249197860947,Life insurance 
+2018.0,British Columbia,11.1.89,62786209,301.4754316271974,Property insurance 
+2018.0,British Columbia,11.1.90,62786210,716.9648128342305,Health insurance 
+2018.0,British Columbia,11.1.91,62786211,1067.4287547746426,Insurance related to transport 
+2018.0,British Columbia,11.1.92,62786212,2190.819969442324,Implicit loan charges 
+2018.0,British Columbia,11.1.93,62786213,1901.7031321619725,Implicit deposit charges 
+2018.0,British Columbia,11.1.94,62786214,743.7174942704441,Stock and bond commissions 
+2018.0,British Columbia,11.1.95,62786215,2424.2717341482057,Other actual financial charges 
+2018.0,British Columbia,11.1.96,62786216,636.8606417112242,Trusteed pension funds 
+2018.0,British Columbia,11.1.97,62786217,2856.402887700562,Mutual funds 
+2018.0,British Columbia,11.1.98,62786218,7867.143330786843,Miscellaneous goods and services 
+2018.0,British Columbia,11.1.99,62786219,1240.954912146677,Personal grooming services 
+2018.0,British Columbia,11.1.100,62786220,77.49485103132156,Electrical appliances for personal care 
+2018.0,British Columbia,11.1.101,62786221,1946.9405958747084,Other appliances articles and products for personal care 
+2018.0,British Columbia,11.1.102,62786222,689.1091061879306,Jewellery clocks and watches 
+2018.0,British Columbia,11.1.103,62786223,433.90270435446655,Other personal effects 
+2018.0,British Columbia,11.1.104,62786224,513.3043086325415,Child care services outside the home 
+2018.0,British Columbia,11.1.105,62786225,206.70617265087822,Child care services in the home 
+2018.0,British Columbia,11.1.106,62786226,1235.9460198624874,Other social services and funeral services 
+2018.0,British Columbia,11.1.107,62786227,1522.766371275793,Legal and other services 
+2018.0,British Columbia,11.1.108,62786228,326.5048892284249,Net expenditure abroad 
+2018.0,British Columbia,11.1.109,62786229,6920.0931245225365,Expenditure by Canadians abroad 
+2018.0,British Columbia,11.1.110,62786230,1602.460015278848,Expenditure by Canadians in other provinces or territories 
+2018.0,British Columbia,11.1.111,62786231,-6122.909396485833,Expenditure by non-residents in Canada 
+2018.0,British Columbia,11.1.112,62786232,-2073.1463407181145,Expenditure by Canadians residing in other provinces or territories 
+2018.0,Yukon,12.1.1,62786345,1292.3136745607335,Household final consumption expenditure 
+2018.0,Yukon,12.1.2,62786346,115.74870893812113,Food and non-alcoholic beverages 
+2018.0,Yukon,12.1.3,62786347,104.57223834988508,Food 
+2018.0,Yukon,12.1.4,62786348,11.177326203208565,Non-alcoholic beverages 
+2018.0,Yukon,12.1.5,62786349,54.980443086325295,Alcoholic beverages and tobacco 
+2018.0,Yukon,12.1.6,62786350,25.8058059587471,Alcoholic beverages 
+2018.0,Yukon,12.1.7,62786351,29.18025974025977,Tobacco 
+2018.0,Yukon,12.1.8,62786352,34.72232238349875,Clothing and footwear 
+2018.0,Yukon,12.1.9,62786353,2.7854851031321743,Clothing materials other articles of clothing and clothing accessories 
+2018.0,Yukon,12.1.10,62786354,26.393995416348503,Garments 
+2018.0,Yukon,12.1.11,62786355,0.7312605042016784,Cleaning of clothing 
+2018.0,Yukon,12.1.12,62786356,4.785729564553094,Footwear 
+2018.0,Yukon,12.1.13,62786357,414.42134453781546,Housing water electricity gas and other fuels 
+2018.0,Yukon,12.1.14,62786358,92.92829640947275,Paid rental fees for housing 
+2018.0,Yukon,12.1.15,62786359,268.3088158899918,Imputed rental fees for housing 
+2018.0,Yukon,12.1.16,62786360,1.9811459129106197,Materials for the maintenance and repair of the dwelling 
+2018.0,Yukon,12.1.17,62786361,0.344171122994652,Services for the maintenance and repair of the dwelling 
+2018.0,Yukon,12.1.18,62786362,5.529213139801357,Water supply and sanitation services 
+2018.0,Yukon,12.1.19,62786363,23.492513368983964,Electricity 
+2018.0,Yukon,12.1.20,62786364,0.2550954927425515,Gas 
+2018.0,Yukon,12.1.21,62786365,21.56287242169583,Other fuels 
+2018.0,Yukon,12.1.22,62786366,58.772253628723774,Furnishings household equipment and other goods and services related to the dwelling and property 
+2018.0,Yukon,12.1.23,62786367,16.0309854851032,Furniture and furnishings 
+2018.0,Yukon,12.1.24,62786368,0.3271352177234519,Carpets and other floor coverings 
+2018.0,Yukon,12.1.25,62786369,2.239556913674562,Household textiles 
+2018.0,Yukon,12.1.26,62786370,6.833949579831938,Major household appliances 
+2018.0,Yukon,12.1.27,62786371,2.6309549274255204,Small electric household appliances 
+2018.0,Yukon,12.1.28,62786372,6.267608861726444,Major tools and equipment 
+2018.0,Yukon,12.1.29,62786373,2.5317341482047198,Small tools and miscellaneous accessories 
+2018.0,Yukon,12.1.30,62786374,8.077830404889255,Other semi-durable household goods 
+2018.0,Yukon,12.1.31,62786375,6.720137509549261,Other non-durable household goods 
+2018.0,Yukon,12.1.32,62786376,3.1943009931245285,Repair of personal and household goods except vehicles 
+2018.0,Yukon,12.1.33,62786377,2.0615584415584323,Renting and leasing of personal and household goods except passenger vehicles 
+2018.0,Yukon,12.1.34,62786378,1.8884491978609645,Other services related to the dwelling and property 
+2018.0,Yukon,12.1.35,62786379,37.01818181818203,Health 
+2018.0,Yukon,12.1.36,62786380,11.216333078686034,Pharmaceutical products and other medical products 
+2018.0,Yukon,12.1.37,62786381,3.858548510313227,Therapeutic appliances and equipment 
+2018.0,Yukon,12.1.38,62786382,20.91728036669201,Out-patient services 
+2018.0,Yukon,12.1.39,62786383,1.0669060351413293,Hospital services 
+2018.0,Yukon,12.1.40,62786384,188.36669213139794,Transport 
+2018.0,Yukon,12.1.41,62786385,18.371184110007675,New passenger cars 
+2018.0,Yukon,12.1.42,62786386,26.3624751718869,New trucks vans and sport utility vehicles 
+2018.0,Yukon,12.1.43,62786387,12.650909090909067,Used motor vehicles 
+2018.0,Yukon,12.1.44,62786388,8.568693659281905,Other vehicles 
+2018.0,Yukon,12.1.45,62786389,14.42959511077163,Spare parts and accessories for vehicles 
+2018.0,Yukon,12.1.46,62786390,49.83306340718127,Fuels and lubricants 
+2018.0,Yukon,12.1.47,62786391,8.243025210084056,Maintenance and repair of vehicles 
+2018.0,Yukon,12.1.48,62786392,0.6982429335370526,Parking 
+2018.0,Yukon,12.1.49,62786393,4.310343773873171,Passenger vehicle renting 
+2018.0,Yukon,12.1.50,62786394,0.7690145148968668,Other services related to the operation of transport equipment 
+2018.0,Yukon,12.1.51,62786395,1.6515355233002253,Urban transit and interurban bus 
+2018.0,Yukon,12.1.52,62786396,1.6894117647058806,Taxi and limousine 
+2018.0,Yukon,12.1.53,62786397,35.304996180290345,Air transport 
+2018.0,Yukon,12.1.54,62786398,0.042673796791443674,Railway and water transport 
+2018.0,Yukon,12.1.55,62786399,5.445133689839565,Other transport services 
+2018.0,Yukon,12.1.56,62786400,29.887074102368388,Communications 
+2018.0,Yukon,12.1.57,62786401,1.968464476699765,Postal services 
+2018.0,Yukon,12.1.58,62786402,0.6009167303284961,Telecommunication equipment 
+2018.0,Yukon,12.1.59,62786403,27.325286478227554,Telecommunication services 
+2018.0,Yukon,12.1.60,62786404,115.76990068754822,Recreation and culture 
+2018.0,Yukon,12.1.61,62786405,6.811856378915195,Audio-visual and photographic equipment 
+2018.0,Yukon,12.1.62,62786406,4.753323147440824,Information processing equipment 
+2018.0,Yukon,12.1.63,62786407,4.1723758594346805,Recording media 
+2018.0,Yukon,12.1.64,62786408,18.039251336898474,Major durables for outdoor recreation 
+2018.0,Yukon,12.1.65,62786409,2.0329870129870073,Musical instruments and major durables for indoor recreation 
+2018.0,Yukon,12.1.66,62786410,7.296333078686075,Games toys and hobbies 
+2018.0,Yukon,12.1.67,62786411,11.437005347593526,Equipment for sport camping and open-air recreation 
+2018.0,Yukon,12.1.68,62786412,5.5763177998472315,Garden products plants and flowers 
+2018.0,Yukon,12.1.69,62786413,5.286065699006855,Pets and pet food 
+2018.0,Yukon,12.1.70,62786414,3.7711077158135993,Veterinary and other services for pets 
+2018.0,Yukon,12.1.71,62786415,14.520886172650762,Recreational and sporting services 
+2018.0,Yukon,12.1.72,62786416,9.206371275783113,Cable satellite and other program distribution services 
+2018.0,Yukon,12.1.73,62786417,0.6777081741787612,Cinemas 
+2018.0,Yukon,12.1.74,62786418,0.9955538579067991,Photographic services 
+2018.0,Yukon,12.1.75,62786419,4.786890756302512,Other cultural services 
+2018.0,Yukon,12.1.76,62786420,6.924629488158871,Games of chance 
+2018.0,Yukon,12.1.77,62786421,3.890756302520998,Books 
+2018.0,Yukon,12.1.78,62786422,2.3226737967914417,Newspapers and periodicals 
+2018.0,Yukon,12.1.79,62786423,3.3077616501145997,Miscellaneous printed matter and stationery and drawing materials 
+2018.0,Yukon,12.1.80,62786424,5.617647058823536,Education 
+2018.0,Yukon,12.1.81,62786425,0.0,University education 
+2018.0,Yukon,12.1.82,62786426,5.617647058823536,Other education 
+2018.0,Yukon,12.1.83,62786427,149.0920244461422,Food beverage and accommodation services 
+2018.0,Yukon,12.1.84,62786428,62.524262796027415,Food and non-alcoholic beverage services 
+2018.0,Yukon,12.1.85,62786429,36.99199388846455,Alcoholic beverage services 
+2018.0,Yukon,12.1.86,62786430,49.5447058823529,Accommodation services 
+2018.0,Yukon,12.1.87,62786431,78.97977081741828,Insurance and financial services 
+2018.0,Yukon,12.1.88,62786432,7.571581359816719,Life insurance 
+2018.0,Yukon,12.1.89,62786433,1.4911229946524074,Property insurance 
+2018.0,Yukon,12.1.90,62786434,1.9867990832696734,Health insurance 
+2018.0,Yukon,12.1.91,62786435,8.521894576012187,Insurance related to transport 
+2018.0,Yukon,12.1.92,62786436,20.008953399541724,Implicit loan charges 
+2018.0,Yukon,12.1.93,62786437,6.824430863254406,Implicit deposit charges 
+2018.0,Yukon,12.1.94,62786438,1.0570511841100085,Stock and bond commissions 
+2018.0,Yukon,12.1.95,62786439,6.766524064171108,Other actual financial charges 
+2018.0,Yukon,12.1.96,62786440,7.151000763941909,Trusteed pension funds 
+2018.0,Yukon,12.1.97,62786441,17.612360580595805,Mutual funds 
+2018.0,Yukon,12.1.98,62786442,54.809885408708396,Miscellaneous goods and services 
+2018.0,Yukon,12.1.99,62786443,7.549977081741815,Personal grooming services 
+2018.0,Yukon,12.1.100,62786444,0.9805653170359037,Electrical appliances for personal care 
+2018.0,Yukon,12.1.101,62786445,14.499541634835737,Other appliances articles and products for personal care 
+2018.0,Yukon,12.1.102,62786446,7.925928189457636,Jewellery clocks and watches 
+2018.0,Yukon,12.1.103,62786447,2.946325439266616,Other personal effects 
+2018.0,Yukon,12.1.104,62786448,4.467150496562269,Child care services outside the home 
+2018.0,Yukon,12.1.105,62786449,1.2310313216195574,Child care services in the home 
+2018.0,Yukon,12.1.106,62786450,3.823361344537801,Other social services and funeral services 
+2018.0,Yukon,12.1.107,62786451,11.436317799847188,Legal and other services 
+2018.0,Yukon,12.1.108,62786452,-45.85931245225356,Net expenditure abroad 
+2018.0,Yukon,12.1.109,62786453,34.203040488922625,Expenditure by Canadians abroad 
+2018.0,Yukon,12.1.110,62786454,43.39286478227655,Expenditure by Canadians in other provinces or territories 
+2018.0,Yukon,12.1.111,62786455,-94.63098548510288,Expenditure by non-residents in Canada 
+2018.0,Yukon,12.1.112,62786456,-28.825607333842612,Expenditure by Canadians residing in other provinces or territories 
+2018.0,Northwest Territories,13.1.1,62786569,1793.9093137254968,Household final consumption expenditure 
+2018.0,Northwest Territories,13.1.2,62786570,196.80686274509753,Food and non-alcoholic beverages 
+2018.0,Northwest Territories,13.1.3,62786571,178.63725490196157,Food 
+2018.0,Northwest Territories,13.1.4,62786572,18.142647058823513,Non-alcoholic beverages 
+2018.0,Northwest Territories,13.1.5,62786573,86.66323529411784,Alcoholic beverages and tobacco 
+2018.0,Northwest Territories,13.1.6,62786574,48.7313725490194,Alcoholic beverages 
+2018.0,Northwest Territories,13.1.7,62786575,37.92377450980371,Tobacco 
+2018.0,Northwest Territories,13.1.8,62786576,74.80147058823513,Clothing and footwear 
+2018.0,Northwest Territories,13.1.9,62786577,6.100490196078425,Clothing materials other articles of clothing and clothing accessories 
+2018.0,Northwest Territories,13.1.10,62786578,58.35882352941189,Garments 
+2018.0,Northwest Territories,13.1.11,62786579,1.1823529411764682,Cleaning of clothing 
+2018.0,Northwest Territories,13.1.12,62786580,9.165686274509824,Footwear 
+2018.0,Northwest Territories,13.1.13,62786581,580.8588235294083,Housing water electricity gas and other fuels 
+2018.0,Northwest Territories,13.1.14,62786582,233.31274509804098,Paid rental fees for housing 
+2018.0,Northwest Territories,13.1.15,62786583,210.26397058823568,Imputed rental fees for housing 
+2018.0,Northwest Territories,13.1.16,62786584,4.071078431372541,Materials for the maintenance and repair of the dwelling 
+2018.0,Northwest Territories,13.1.17,62786585,0.7007352941176421,Services for the maintenance and repair of the dwelling 
+2018.0,Northwest Territories,13.1.18,62786586,11.585539215686254,Water supply and sanitation services 
+2018.0,Northwest Territories,13.1.19,62786587,59.357598039215645,Electricity 
+2018.0,Northwest Territories,13.1.20,62786588,2.36960784313726,Gas 
+2018.0,Northwest Territories,13.1.21,62786589,59.25563725490156,Other fuels 
+2018.0,Northwest Territories,13.1.22,62786590,68.39191176470604,Furnishings household equipment and other goods and services related to the dwelling and property 
+2018.0,Northwest Territories,13.1.23,62786591,13.338235294117567,Furniture and furnishings 
+2018.0,Northwest Territories,13.1.24,62786592,0.20000000000000004,Carpets and other floor coverings 
+2018.0,Northwest Territories,13.1.25,62786593,3.52475490196079,Household textiles 
+2018.0,Northwest Territories,13.1.26,62786594,9.414705882352962,Major household appliances 
+2018.0,Northwest Territories,13.1.27,62786595,4.162499999999994,Small electric household appliances 
+2018.0,Northwest Territories,13.1.28,62786596,3.9151960784313644,Major tools and equipment 
+2018.0,Northwest Territories,13.1.29,62786597,4.485294117647015,Small tools and miscellaneous accessories 
+2018.0,Northwest Territories,13.1.30,62786598,6.9340686274509835,Other semi-durable household goods 
+2018.0,Northwest Territories,13.1.31,62786599,12.028921568627425,Other non-durable household goods 
+2018.0,Northwest Territories,13.1.32,62786600,4.205882352941188,Repair of personal and household goods except vehicles 
+2018.0,Northwest Territories,13.1.33,62786601,4.030392156862746,Renting and leasing of personal and household goods except passenger vehicles 
+2018.0,Northwest Territories,13.1.34,62786602,2.1708333333333343,Other services related to the dwelling and property 
+2018.0,Northwest Territories,13.1.35,62786603,36.57279411764739,Health 
+2018.0,Northwest Territories,13.1.36,62786604,13.161029411764616,Pharmaceutical products and other medical products 
+2018.0,Northwest Territories,13.1.37,62786605,4.892892156862786,Therapeutic appliances and equipment 
+2018.0,Northwest Territories,13.1.38,62786606,16.66593137254904,Out-patient services 
+2018.0,Northwest Territories,13.1.39,62786607,1.830392156862743,Hospital services 
+2018.0,Northwest Territories,13.1.40,62786608,216.74803921568673,Transport 
+2018.0,Northwest Territories,13.1.41,62786609,9.222794117647059,New passenger cars 
+2018.0,Northwest Territories,13.1.42,62786610,38.71740196078417,New trucks vans and sport utility vehicles 
+2018.0,Northwest Territories,13.1.43,62786611,18.26323529411775,Used motor vehicles 
+2018.0,Northwest Territories,13.1.44,62786612,11.369852941176475,Other vehicles 
+2018.0,Northwest Territories,13.1.45,62786613,21.717156862745014,Spare parts and accessories for vehicles 
+2018.0,Northwest Territories,13.1.46,62786614,49.13210784313742,Fuels and lubricants 
+2018.0,Northwest Territories,13.1.47,62786615,15.97965686274506,Maintenance and repair of vehicles 
+2018.0,Northwest Territories,13.1.48,62786616,0.7992647058823508,Parking 
+2018.0,Northwest Territories,13.1.49,62786617,5.310294117647061,Passenger vehicle renting 
+2018.0,Northwest Territories,13.1.50,62786618,1.169117647058826,Other services related to the operation of transport equipment 
+2018.0,Northwest Territories,13.1.51,62786619,2.455882352941174,Urban transit and interurban bus 
+2018.0,Northwest Territories,13.1.52,62786620,3.448284313725509,Taxi and limousine 
+2018.0,Northwest Territories,13.1.53,62786621,27.146323529411802,Air transport 
+2018.0,Northwest Territories,13.1.54,62786622,1.7465686274509835,Railway and water transport 
+2018.0,Northwest Territories,13.1.55,62786623,10.189460784313667,Other transport services 
+2018.0,Northwest Territories,13.1.56,62786624,46.34877450980366,Communications 
+2018.0,Northwest Territories,13.1.57,62786625,2.39166666666668,Postal services 
+2018.0,Northwest Territories,13.1.58,62786626,0.5857843137254903,Telecommunication equipment 
+2018.0,Northwest Territories,13.1.59,62786627,43.40098039215718,Telecommunication services 
+2018.0,Northwest Territories,13.1.60,62786628,140.80514705882342,Recreation and culture 
+2018.0,Northwest Territories,13.1.61,62786629,15.158823529411734,Audio-visual and photographic equipment 
+2018.0,Northwest Territories,13.1.62,62786630,4.852696078431364,Information processing equipment 
+2018.0,Northwest Territories,13.1.63,62786631,3.925980392156866,Recording media 
+2018.0,Northwest Territories,13.1.64,62786632,20.32303921568632,Major durables for outdoor recreation 
+2018.0,Northwest Territories,13.1.65,62786633,1.3872549019607838,Musical instruments and major durables for indoor recreation 
+2018.0,Northwest Territories,13.1.66,62786634,9.195098039215736,Games toys and hobbies 
+2018.0,Northwest Territories,13.1.67,62786635,12.143627450980375,Equipment for sport camping and open-air recreation 
+2018.0,Northwest Territories,13.1.68,62786636,3.854411764705901,Garden products plants and flowers 
+2018.0,Northwest Territories,13.1.69,62786637,8.576960784313712,Pets and pet food 
+2018.0,Northwest Territories,13.1.70,62786638,3.279166666666697,Veterinary and other services for pets 
+2018.0,Northwest Territories,13.1.71,62786639,12.364460784313678,Recreational and sporting services 
+2018.0,Northwest Territories,13.1.72,62786640,15.705392156862672,Cable satellite and other program distribution services 
+2018.0,Northwest Territories,13.1.73,62786641,1.3502450980392169,Cinemas 
+2018.0,Northwest Territories,13.1.74,62786642,0.8129901960784309,Photographic services 
+2018.0,Northwest Territories,13.1.75,62786643,4.426225490196089,Other cultural services 
+2018.0,Northwest Territories,13.1.76,62786644,15.472058823529323,Games of chance 
+2018.0,Northwest Territories,13.1.77,62786645,2.891911764705881,Books 
+2018.0,Northwest Territories,13.1.78,62786646,2.074264705882353,Newspapers and periodicals 
+2018.0,Northwest Territories,13.1.79,62786647,3.044607843137257,Miscellaneous printed matter and stationery and drawing materials 
+2018.0,Northwest Territories,13.1.80,62786648,10.905147058823445,Education 
+2018.0,Northwest Territories,13.1.81,62786649,0.0,University education 
+2018.0,Northwest Territories,13.1.82,62786650,10.905147058823445,Other education 
+2018.0,Northwest Territories,13.1.83,62786651,142.60833333333449,Food beverage and accommodation services 
+2018.0,Northwest Territories,13.1.84,62786652,88.100980392157,Food and non-alcoholic beverage services 
+2018.0,Northwest Territories,13.1.85,62786653,20.295343137254896,Alcoholic beverage services 
+2018.0,Northwest Territories,13.1.86,62786654,34.1840686274511,Accommodation services 
+2018.0,Northwest Territories,13.1.87,62786655,88.02279411764721,Insurance and financial services 
+2018.0,Northwest Territories,13.1.88,62786656,9.39926470588233,Life insurance 
+2018.0,Northwest Territories,13.1.89,62786657,2.7963235294117794,Property insurance 
+2018.0,Northwest Territories,13.1.90,62786658,2.3333333333333144,Health insurance 
+2018.0,Northwest Territories,13.1.91,62786659,4.436029411764736,Insurance related to transport 
+2018.0,Northwest Territories,13.1.92,62786660,18.404411764705884,Implicit loan charges 
+2018.0,Northwest Territories,13.1.93,62786661,8.350490196078425,Implicit deposit charges 
+2018.0,Northwest Territories,13.1.94,62786662,1.637745098039204,Stock and bond commissions 
+2018.0,Northwest Territories,13.1.95,62786663,7.256862745098033,Other actual financial charges 
+2018.0,Northwest Territories,13.1.96,62786664,15.086029411764684,Trusteed pension funds 
+2018.0,Northwest Territories,13.1.97,62786665,18.421323529411893,Mutual funds 
+2018.0,Northwest Territories,13.1.98,62786666,76.9867647058827,Miscellaneous goods and services 
+2018.0,Northwest Territories,13.1.99,62786667,10.931862745097987,Personal grooming services 
+2018.0,Northwest Territories,13.1.100,62786668,1.6725490196078425,Electrical appliances for personal care 
+2018.0,Northwest Territories,13.1.101,62786669,18.08284313725494,Other appliances articles and products for personal care 
+2018.0,Northwest Territories,13.1.102,62786670,8.553186274509812,Jewellery clocks and watches 
+2018.0,Northwest Territories,13.1.103,62786671,4.506862745098033,Other personal effects 
+2018.0,Northwest Territories,13.1.104,62786672,8.840196078431347,Child care services outside the home 
+2018.0,Northwest Territories,13.1.105,62786673,2.830882352941188,Child care services in the home 
+2018.0,Northwest Territories,13.1.106,62786674,6.631372549019602,Other social services and funeral services 
+2018.0,Northwest Territories,13.1.107,62786675,14.952205882352928,Legal and other services 
+2018.0,Northwest Territories,13.1.108,62786676,27.474754901961205,Net expenditure abroad 
+2018.0,Northwest Territories,13.1.109,62786677,35.4227941176473,Expenditure by Canadians abroad 
+2018.0,Northwest Territories,13.1.110,62786678,54.725735294117385,Expenditure by Canadians in other provinces or territories 
+2018.0,Northwest Territories,13.1.111,62786679,-30.5747549019608,Expenditure by non-residents in Canada 
+2018.0,Northwest Territories,13.1.112,62786680,-32.10490196078433,Expenditure by Canadians residing in other provinces or territories 
+2018.0,Nunavut,14.1.1,62786793,861.7696078431327,Household final consumption expenditure 
+2018.0,Nunavut,14.1.2,62786794,114.4892156862752,Food and non-alcoholic beverages 
+2018.0,Nunavut,14.1.3,62786795,100.02450980392223,Food 
+2018.0,Nunavut,14.1.4,62786796,14.476470588235316,Non-alcoholic beverages 
+2018.0,Nunavut,14.1.5,62786797,49.6370098039215,Alcoholic beverages and tobacco 
+2018.0,Nunavut,14.1.6,62786798,2.624509803921569,Alcoholic beverages 
+2018.0,Nunavut,14.1.7,62786799,47.025980392156725,Tobacco 
+2018.0,Nunavut,14.1.8,62786800,58.82843137254849,Clothing and footwear 
+2018.0,Nunavut,14.1.9,62786801,4.599264705882348,Clothing materials other articles of clothing and clothing accessories 
+2018.0,Nunavut,14.1.10,62786802,49.30931372549003,Garments 
+2018.0,Nunavut,14.1.11,62786803,0.20000000000000004,Cleaning of clothing 
+2018.0,Nunavut,14.1.12,62786804,4.764950980392143,Footwear 
+2018.0,Nunavut,14.1.13,62786805,325.08872549019725,Housing water electricity gas and other fuels 
+2018.0,Nunavut,14.1.14,62786806,189.82843137254895,Paid rental fees for housing 
+2018.0,Nunavut,14.1.15,62786807,95.59779411764703,Imputed rental fees for housing 
+2018.0,Nunavut,14.1.16,62786808,1.5926470588235304,Materials for the maintenance and repair of the dwelling 
+2018.0,Nunavut,14.1.17,62786809,0.23553921568627345,Services for the maintenance and repair of the dwelling 
+2018.0,Nunavut,14.1.18,62786810,9.798774509803934,Water supply and sanitation services 
+2018.0,Nunavut,14.1.19,62786811,18.478431372549267,Electricity 
+2018.0,Nunavut,14.1.20,62786812,0.10000000000000002,Gas 
+2018.0,Nunavut,14.1.21,62786813,9.439460784313724,Other fuels 
+2018.0,Nunavut,14.1.22,62786814,40.337745098039704,Furnishings household equipment and other goods and services related to the dwelling and property 
+2018.0,Nunavut,14.1.23,62786815,11.357843137254918,Furniture and furnishings 
+2018.0,Nunavut,14.1.24,62786816,0.21029411764705763,Carpets and other floor coverings 
+2018.0,Nunavut,14.1.25,62786817,2.8705882352941217,Household textiles 
+2018.0,Nunavut,14.1.26,62786818,6.053431372549028,Major household appliances 
+2018.0,Nunavut,14.1.27,62786819,0.8367647058823522,Small electric household appliances 
+2018.0,Nunavut,14.1.28,62786820,2.9904411764705685,Major tools and equipment 
+2018.0,Nunavut,14.1.29,62786821,2.056862745098016,Small tools and miscellaneous accessories 
+2018.0,Nunavut,14.1.30,62786822,4.169117647058812,Other semi-durable household goods 
+2018.0,Nunavut,14.1.31,62786823,6.442401960784366,Other non-durable household goods 
+2018.0,Nunavut,14.1.32,62786824,1.8225490196078482,Repair of personal and household goods except vehicles 
+2018.0,Nunavut,14.1.33,62786825,1.0889705882352914,Renting and leasing of personal and household goods except passenger vehicles 
+2018.0,Nunavut,14.1.34,62786826,0.47573529411764426,Other services related to the dwelling and property 
+2018.0,Nunavut,14.1.35,62786827,17.635049019607777,Health 
+2018.0,Nunavut,14.1.36,62786828,7.303921568627402,Pharmaceutical products and other medical products 
+2018.0,Nunavut,14.1.37,62786829,1.938235294117618,Therapeutic appliances and equipment 
+2018.0,Nunavut,14.1.38,62786830,8.121078431372439,Out-patient services 
+2018.0,Nunavut,14.1.39,62786831,0.28112745098039227,Hospital services 
+2018.0,Nunavut,14.1.40,62786832,66.5186274509806,Transport 
+2018.0,Nunavut,14.1.41,62786833,1.1382352941176421,New passenger cars 
+2018.0,Nunavut,14.1.42,62786834,3.937254901960756,New trucks vans and sport utility vehicles 
+2018.0,Nunavut,14.1.43,62786835,2.372058823529386,Used motor vehicles 
+2018.0,Nunavut,14.1.44,62786836,1.5617647058823394,Other vehicles 
+2018.0,Nunavut,14.1.45,62786837,1.7730392156862678,Spare parts and accessories for vehicles 
+2018.0,Nunavut,14.1.46,62786838,30.29877450980348,Fuels and lubricants 
+2018.0,Nunavut,14.1.47,62786839,0.5639705882352928,Maintenance and repair of vehicles 
+2018.0,Nunavut,14.1.48,62786840,0.29877450980391984,Parking 
+2018.0,Nunavut,14.1.49,62786841,1.8816176470588175,Passenger vehicle renting 
+2018.0,Nunavut,14.1.50,62786842,0.4683823529411768,Other services related to the operation of transport equipment 
+2018.0,Nunavut,14.1.51,62786843,0.10000000000000002,Urban transit and interurban bus 
+2018.0,Nunavut,14.1.52,62786844,2.7392156862745196,Taxi and limousine 
+2018.0,Nunavut,14.1.53,62786845,15.165441176470608,Air transport 
+2018.0,Nunavut,14.1.54,62786846,0.0,Railway and water transport 
+2018.0,Nunavut,14.1.55,62786847,4.220098039215685,Other transport services 
+2018.0,Nunavut,14.1.56,62786848,20.3955882352941,Communications 
+2018.0,Nunavut,14.1.57,62786849,1.406617647058809,Postal services 
+2018.0,Nunavut,14.1.58,62786850,0.10000000000000002,Telecommunication equipment 
+2018.0,Nunavut,14.1.59,62786851,18.875980392156862,Telecommunication services 
+2018.0,Nunavut,14.1.60,62786852,47.245833333333394,Recreation and culture 
+2018.0,Nunavut,14.1.61,62786853,2.8757352941176464,Audio-visual and photographic equipment 
+2018.0,Nunavut,14.1.62,62786854,2.349754901960779,Information processing equipment 
+2018.0,Nunavut,14.1.63,62786855,0.7220588235294088,Recording media 
+2018.0,Nunavut,14.1.64,62786856,4.478676470588255,Major durables for outdoor recreation 
+2018.0,Nunavut,14.1.65,62786857,0.3536764705882369,Musical instruments and major durables for indoor recreation 
+2018.0,Nunavut,14.1.66,62786858,6.808578431372609,Games toys and hobbies 
+2018.0,Nunavut,14.1.67,62786859,4.686029411764707,Equipment for sport camping and open-air recreation 
+2018.0,Nunavut,14.1.68,62786860,2.2149509803921603,Garden products plants and flowers 
+2018.0,Nunavut,14.1.69,62786861,1.2816176470588232,Pets and pet food 
+2018.0,Nunavut,14.1.70,62786862,0.2965686274509771,Veterinary and other services for pets 
+2018.0,Nunavut,14.1.71,62786863,3.9617647058823593,Recreational and sporting services 
+2018.0,Nunavut,14.1.72,62786864,7.449999999999989,Cable satellite and other program distribution services 
+2018.0,Nunavut,14.1.73,62786865,0.6127450980392126,Cinemas 
+2018.0,Nunavut,14.1.74,62786866,0.35710784313725474,Photographic services 
+2018.0,Nunavut,14.1.75,62786867,0.8058823529411754,Other cultural services 
+2018.0,Nunavut,14.1.76,62786868,5.163970588235259,Games of chance 
+2018.0,Nunavut,14.1.77,62786869,0.9965686274509835,Books 
+2018.0,Nunavut,14.1.78,62786870,0.5196078431372557,Newspapers and periodicals 
+2018.0,Nunavut,14.1.79,62786871,1.361274509803934,Miscellaneous printed matter and stationery and drawing materials 
+2018.0,Nunavut,14.1.80,62786872,4.888970588235281,Education 
+2018.0,Nunavut,14.1.81,62786873,0.0,University education 
+2018.0,Nunavut,14.1.82,62786874,4.888970588235281,Other education 
+2018.0,Nunavut,14.1.83,62786875,39.81397058823541,Food beverage and accommodation services 
+2018.0,Nunavut,14.1.84,62786876,14.430147058823536,Food and non-alcoholic beverage services 
+2018.0,Nunavut,14.1.85,62786877,13.000980392156862,Alcoholic beverage services 
+2018.0,Nunavut,14.1.86,62786878,12.375245098039159,Accommodation services 
+2018.0,Nunavut,14.1.87,62786879,25.116176470588016,Insurance and financial services 
+2018.0,Nunavut,14.1.88,62786880,0.7218137254901968,Life insurance 
+2018.0,Nunavut,14.1.89,62786881,1.3068627450980443,Property insurance 
+2018.0,Nunavut,14.1.90,62786882,1.8411764705882376,Health insurance 
+2018.0,Nunavut,14.1.91,62786883,1.6955882352941245,Insurance related to transport 
+2018.0,Nunavut,14.1.92,62786884,4.304901960784306,Implicit loan charges 
+2018.0,Nunavut,14.1.93,62786885,1.1264705882352928,Implicit deposit charges 
+2018.0,Nunavut,14.1.94,62786886,0.3446078431372541,Stock and bond commissions 
+2018.0,Nunavut,14.1.95,62786887,4.673529411764719,Other actual financial charges 
+2018.0,Nunavut,14.1.96,62786888,3.688970588235293,Trusteed pension funds 
+2018.0,Nunavut,14.1.97,62786889,5.408578431372575,Mutual funds 
+2018.0,Nunavut,14.1.98,62786890,41.65098039215718,Miscellaneous goods and services 
+2018.0,Nunavut,14.1.99,62786891,3.034803921568624,Personal grooming services 
+2018.0,Nunavut,14.1.100,62786892,0.33627450980392126,Electrical appliances for personal care 
+2018.0,Nunavut,14.1.101,62786893,7.328921568627493,Other appliances articles and products for personal care 
+2018.0,Nunavut,14.1.102,62786894,2.300980392156859,Jewellery clocks and watches 
+2018.0,Nunavut,14.1.103,62786895,3.704901960784298,Other personal effects 
+2018.0,Nunavut,14.1.104,62786896,3.574509803921586,Child care services outside the home 
+2018.0,Nunavut,14.1.105,62786897,1.5615196078431381,Child care services in the home 
+2018.0,Nunavut,14.1.106,62786898,3.049509803921552,Other social services and funeral services 
+2018.0,Nunavut,14.1.107,62786899,16.79534313725503,Legal and other services 
+2018.0,Nunavut,14.1.108,62786900,10.10661764705901,Net expenditure abroad 
+2018.0,Nunavut,14.1.109,62786901,15.585294117647095,Expenditure by Canadians abroad 
+2018.0,Nunavut,14.1.110,62786902,22.54068627450988,Expenditure by Canadians in other provinces or territories 
+2018.0,Nunavut,14.1.111,62786903,-10.6875,Expenditure by non-residents in Canada 
